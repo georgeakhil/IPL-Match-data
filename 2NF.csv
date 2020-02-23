@@ -1,0 +1,1299 @@
+Match_Id,Player_Id,Player_team,Opposit_Team,Player_Captain,Opposit_captain,Player_keeper,Opposit_keeper
+1082591,27,Sunrisers Hyderabad,Royal Challengers Bangalore,DA Warner,SR Watson,NV Ojha,KM Jadhav
+1082591,32,Royal Challengers Bangalore,Sunrisers Hyderabad,SR Watson,DA Warner,KM Jadhav,NV Ojha
+1082591,42,Sunrisers Hyderabad,Royal Challengers Bangalore,DA Warner,SR Watson,NV Ojha,KM Jadhav
+1082591,73,Sunrisers Hyderabad,Royal Challengers Bangalore,DA Warner,SR Watson,NV Ojha,KM Jadhav
+1082591,162,Royal Challengers Bangalore,Sunrisers Hyderabad,SR Watson,DA Warner,KM Jadhav,NV Ojha
+1082591,163,Sunrisers Hyderabad,Royal Challengers Bangalore,DA Warner,SR Watson,NV Ojha,KM Jadhav
+1082591,183,Sunrisers Hyderabad,Royal Challengers Bangalore,DA Warner,SR Watson,NV Ojha,KM Jadhav
+1082591,187,Sunrisers Hyderabad,Royal Challengers Bangalore,DA Warner,SR Watson,NV Ojha,KM Jadhav
+1082591,228,Sunrisers Hyderabad,Royal Challengers Bangalore,DA Warner,SR Watson,NV Ojha,KM Jadhav
+1082591,236,Royal Challengers Bangalore,Sunrisers Hyderabad,SR Watson,DA Warner,KM Jadhav,NV Ojha
+1082591,237,Royal Challengers Bangalore,Sunrisers Hyderabad,SR Watson,DA Warner,KM Jadhav,NV Ojha
+1082591,255,Royal Challengers Bangalore,Sunrisers Hyderabad,SR Watson,DA Warner,KM Jadhav,NV Ojha
+1082591,270,Royal Challengers Bangalore,Sunrisers Hyderabad,SR Watson,DA Warner,KM Jadhav,NV Ojha
+1082591,299,Sunrisers Hyderabad,Royal Challengers Bangalore,DA Warner,SR Watson,NV Ojha,KM Jadhav
+1082591,369,Royal Challengers Bangalore,Sunrisers Hyderabad,SR Watson,DA Warner,KM Jadhav,NV Ojha
+1082591,382,Royal Challengers Bangalore,Sunrisers Hyderabad,SR Watson,DA Warner,KM Jadhav,NV Ojha
+1082591,385,Sunrisers Hyderabad,Royal Challengers Bangalore,DA Warner,SR Watson,NV Ojha,KM Jadhav
+1082591,394,Sunrisers Hyderabad,Royal Challengers Bangalore,DA Warner,SR Watson,NV Ojha,KM Jadhav
+1082591,417,Royal Challengers Bangalore,Sunrisers Hyderabad,SR Watson,DA Warner,KM Jadhav,NV Ojha
+1082591,470,Royal Challengers Bangalore,Sunrisers Hyderabad,SR Watson,DA Warner,KM Jadhav,NV Ojha
+1082591,489,Sunrisers Hyderabad,Royal Challengers Bangalore,DA Warner,SR Watson,NV Ojha,KM Jadhav
+1082591,495,Royal Challengers Bangalore,Sunrisers Hyderabad,SR Watson,DA Warner,KM Jadhav,NV Ojha
+1082592,17,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082592,20,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082592,57,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082592,85,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082592,87,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082592,89,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082592,106,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082592,208,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082592,221,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082592,260,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082592,306,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082592,375,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082592,377,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082592,386,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082592,400,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082592,403,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082592,407,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082592,413,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082592,430,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082592,431,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082592,465,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082592,476,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082593,2,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082593,14,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082593,21,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082593,31,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082593,40,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082593,46,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082593,67,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082593,80,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082593,88,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082593,96,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082593,120,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082593,147,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082593,186,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082593,254,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082593,308,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082593,315,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082593,336,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082593,432,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082593,458,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082593,462,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082593,479,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082593,481,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082594,20,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082594,62,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082594,85,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082594,87,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082594,89,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082594,106,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082594,258,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082594,260,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082594,305,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082594,306,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082594,320,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082594,345,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082594,364,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082594,367,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082594,374,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082594,386,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082594,409,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082594,424,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082594,427,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082594,476,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082594,490,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082594,493,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082595,15,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,SR Watson,RR Pant,Vishnu Vinod
+1082595,32,Royal Challengers Bangalore,Delhi Daredevils,SR Watson,Z Khan,Vishnu Vinod,RR Pant
+1082595,136,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,SR Watson,RR Pant,Vishnu Vinod
+1082595,140,Royal Challengers Bangalore,Delhi Daredevils,SR Watson,Z Khan,Vishnu Vinod,RR Pant
+1082595,162,Royal Challengers Bangalore,Delhi Daredevils,SR Watson,Z Khan,Vishnu Vinod,RR Pant
+1082595,207,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,SR Watson,RR Pant,Vishnu Vinod
+1082595,236,Royal Challengers Bangalore,Delhi Daredevils,SR Watson,Z Khan,Vishnu Vinod,RR Pant
+1082595,237,Royal Challengers Bangalore,Delhi Daredevils,SR Watson,Z Khan,Vishnu Vinod,RR Pant
+1082595,255,Royal Challengers Bangalore,Delhi Daredevils,SR Watson,Z Khan,Vishnu Vinod,RR Pant
+1082595,293,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,SR Watson,RR Pant,Vishnu Vinod
+1082595,322,Royal Challengers Bangalore,Delhi Daredevils,SR Watson,Z Khan,Vishnu Vinod,RR Pant
+1082595,339,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,SR Watson,RR Pant,Vishnu Vinod
+1082595,350,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,SR Watson,RR Pant,Vishnu Vinod
+1082595,351,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,SR Watson,RR Pant,Vishnu Vinod
+1082595,382,Royal Challengers Bangalore,Delhi Daredevils,SR Watson,Z Khan,Vishnu Vinod,RR Pant
+1082595,405,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,SR Watson,RR Pant,Vishnu Vinod
+1082595,408,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,SR Watson,RR Pant,Vishnu Vinod
+1082595,420,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,SR Watson,RR Pant,Vishnu Vinod
+1082595,421,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,SR Watson,RR Pant,Vishnu Vinod
+1082595,475,Royal Challengers Bangalore,Delhi Daredevils,SR Watson,Z Khan,Vishnu Vinod,RR Pant
+1082595,495,Royal Challengers Bangalore,Delhi Daredevils,SR Watson,Z Khan,Vishnu Vinod,RR Pant
+1082595,496,Royal Challengers Bangalore,Delhi Daredevils,SR Watson,Z Khan,Vishnu Vinod,RR Pant
+1082596,2,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082596,14,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082596,21,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082596,27,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082596,42,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082596,73,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082596,80,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082596,88,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082596,147,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082596,163,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082596,183,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082596,187,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082596,228,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082596,254,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082596,299,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082596,385,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082596,394,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082596,432,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082596,477,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082596,481,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082596,489,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082596,494,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082597,17,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082597,31,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082597,40,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082597,46,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082597,50,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082597,57,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082597,96,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082597,194,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082597,221,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082597,308,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082597,315,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082597,336,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082597,344,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082597,375,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082597,400,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082597,403,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082597,407,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082597,413,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082597,431,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082597,458,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082597,462,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082597,479,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082598,32,Royal Challengers Bangalore,Kings XI Punjab,SR Watson,GJ Maxwell,Vishnu Vinod,WP Saha
+1082598,62,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,SR Watson,WP Saha,Vishnu Vinod
+1082598,110,Royal Challengers Bangalore,Kings XI Punjab,SR Watson,GJ Maxwell,Vishnu Vinod,WP Saha
+1082598,140,Royal Challengers Bangalore,Kings XI Punjab,SR Watson,GJ Maxwell,Vishnu Vinod,WP Saha
+1082598,236,Royal Challengers Bangalore,Kings XI Punjab,SR Watson,GJ Maxwell,Vishnu Vinod,WP Saha
+1082598,237,Royal Challengers Bangalore,Kings XI Punjab,SR Watson,GJ Maxwell,Vishnu Vinod,WP Saha
+1082598,255,Royal Challengers Bangalore,Kings XI Punjab,SR Watson,GJ Maxwell,Vishnu Vinod,WP Saha
+1082598,296,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,SR Watson,WP Saha,Vishnu Vinod
+1082598,305,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,SR Watson,WP Saha,Vishnu Vinod
+1082598,320,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,SR Watson,WP Saha,Vishnu Vinod
+1082598,322,Royal Challengers Bangalore,Kings XI Punjab,SR Watson,GJ Maxwell,Vishnu Vinod,WP Saha
+1082598,345,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,SR Watson,WP Saha,Vishnu Vinod
+1082598,364,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,SR Watson,WP Saha,Vishnu Vinod
+1082598,367,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,SR Watson,WP Saha,Vishnu Vinod
+1082598,374,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,SR Watson,WP Saha,Vishnu Vinod
+1082598,382,Royal Challengers Bangalore,Kings XI Punjab,SR Watson,GJ Maxwell,Vishnu Vinod,WP Saha
+1082598,409,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,SR Watson,WP Saha,Vishnu Vinod
+1082598,427,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,SR Watson,WP Saha,Vishnu Vinod
+1082598,475,Royal Challengers Bangalore,Kings XI Punjab,SR Watson,GJ Maxwell,Vishnu Vinod,WP Saha
+1082598,493,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,SR Watson,WP Saha,Vishnu Vinod
+1082598,495,Royal Challengers Bangalore,Kings XI Punjab,SR Watson,GJ Maxwell,Vishnu Vinod,WP Saha
+1082598,496,Royal Challengers Bangalore,Kings XI Punjab,SR Watson,GJ Maxwell,Vishnu Vinod,WP Saha
+1082599,15,Delhi Daredevils,Rising Pune Supergiants,Z Khan,AM Rahane,RR Pant,MS Dhoni
+1082599,20,Rising Pune Supergiants,Delhi Daredevils,AM Rahane,Z Khan,MS Dhoni,RR Pant
+1082599,85,Rising Pune Supergiants,Delhi Daredevils,AM Rahane,Z Khan,MS Dhoni,RR Pant
+1082599,89,Rising Pune Supergiants,Delhi Daredevils,AM Rahane,Z Khan,MS Dhoni,RR Pant
+1082599,106,Rising Pune Supergiants,Delhi Daredevils,AM Rahane,Z Khan,MS Dhoni,RR Pant
+1082599,136,Delhi Daredevils,Rising Pune Supergiants,Z Khan,AM Rahane,RR Pant,MS Dhoni
+1082599,207,Delhi Daredevils,Rising Pune Supergiants,Z Khan,AM Rahane,RR Pant,MS Dhoni
+1082599,260,Rising Pune Supergiants,Delhi Daredevils,AM Rahane,Z Khan,MS Dhoni,RR Pant
+1082599,293,Delhi Daredevils,Rising Pune Supergiants,Z Khan,AM Rahane,RR Pant,MS Dhoni
+1082599,303,Rising Pune Supergiants,Delhi Daredevils,AM Rahane,Z Khan,MS Dhoni,RR Pant
+1082599,339,Delhi Daredevils,Rising Pune Supergiants,Z Khan,AM Rahane,RR Pant,MS Dhoni
+1082599,350,Delhi Daredevils,Rising Pune Supergiants,Z Khan,AM Rahane,RR Pant,MS Dhoni
+1082599,351,Delhi Daredevils,Rising Pune Supergiants,Z Khan,AM Rahane,RR Pant,MS Dhoni
+1082599,372,Delhi Daredevils,Rising Pune Supergiants,Z Khan,AM Rahane,RR Pant,MS Dhoni
+1082599,386,Rising Pune Supergiants,Delhi Daredevils,AM Rahane,Z Khan,MS Dhoni,RR Pant
+1082599,405,Delhi Daredevils,Rising Pune Supergiants,Z Khan,AM Rahane,RR Pant,MS Dhoni
+1082599,420,Delhi Daredevils,Rising Pune Supergiants,Z Khan,AM Rahane,RR Pant,MS Dhoni
+1082599,421,Delhi Daredevils,Rising Pune Supergiants,Z Khan,AM Rahane,RR Pant,MS Dhoni
+1082599,430,Rising Pune Supergiants,Delhi Daredevils,AM Rahane,Z Khan,MS Dhoni,RR Pant
+1082599,465,Rising Pune Supergiants,Delhi Daredevils,AM Rahane,Z Khan,MS Dhoni,RR Pant
+1082599,476,Rising Pune Supergiants,Delhi Daredevils,AM Rahane,Z Khan,MS Dhoni,RR Pant
+1082599,488,Rising Pune Supergiants,Delhi Daredevils,AM Rahane,Z Khan,MS Dhoni,RR Pant
+1082600,17,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082600,27,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082600,42,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082600,50,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082600,57,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082600,73,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082600,183,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082600,187,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082600,194,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082600,221,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082600,299,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082600,375,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082600,385,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082600,394,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082600,400,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082600,403,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082600,407,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082600,413,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082600,431,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082600,455,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082600,460,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082600,489,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082601,31,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082601,40,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082601,46,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082601,62,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082601,67,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082601,84,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082601,96,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082601,232,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082601,296,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082601,305,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082601,308,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082601,315,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082601,320,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082601,345,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082601,364,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082601,367,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082601,374,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082601,409,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082601,427,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082601,458,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082601,478,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082601,479,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082602,8,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082602,17,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082602,50,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082602,57,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082602,110,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082602,162,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082602,221,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082602,236,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082602,237,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082602,255,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082602,270,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082602,322,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082602,375,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082602,377,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082602,382,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082602,400,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082602,403,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082602,407,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082602,413,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082602,431,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082602,452,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082602,495,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082603,2,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082603,14,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082603,20,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082603,21,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082603,35,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082603,85,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082603,87,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082603,88,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082603,147,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082603,186,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082603,254,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082603,306,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082603,314,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082603,386,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082603,406,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082603,410,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082603,471,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082603,476,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082603,477,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082603,483,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082603,488,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082603,490,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082604,27,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082604,31,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082604,40,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082604,42,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082604,46,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082604,73,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082604,96,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082604,163,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082604,183,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082604,187,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082604,228,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082604,232,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082604,299,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082604,308,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082604,315,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082604,385,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082604,394,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082604,458,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082604,462,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082604,478,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082604,479,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082604,489,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082605,15,Delhi Daredevils,Kings XI Punjab,Z Khan,GJ Maxwell,RR Pant,WP Saha
+1082605,62,Kings XI Punjab,Delhi Daredevils,GJ Maxwell,Z Khan,WP Saha,RR Pant
+1082605,136,Delhi Daredevils,Kings XI Punjab,Z Khan,GJ Maxwell,RR Pant,WP Saha
+1082605,216,Kings XI Punjab,Delhi Daredevils,GJ Maxwell,Z Khan,WP Saha,RR Pant
+1082605,293,Delhi Daredevils,Kings XI Punjab,Z Khan,GJ Maxwell,RR Pant,WP Saha
+1082605,296,Kings XI Punjab,Delhi Daredevils,GJ Maxwell,Z Khan,WP Saha,RR Pant
+1082605,305,Kings XI Punjab,Delhi Daredevils,GJ Maxwell,Z Khan,WP Saha,RR Pant
+1082605,320,Kings XI Punjab,Delhi Daredevils,GJ Maxwell,Z Khan,WP Saha,RR Pant
+1082605,339,Delhi Daredevils,Kings XI Punjab,Z Khan,GJ Maxwell,RR Pant,WP Saha
+1082605,345,Kings XI Punjab,Delhi Daredevils,GJ Maxwell,Z Khan,WP Saha,RR Pant
+1082605,350,Delhi Daredevils,Kings XI Punjab,Z Khan,GJ Maxwell,RR Pant,WP Saha
+1082605,351,Delhi Daredevils,Kings XI Punjab,Z Khan,GJ Maxwell,RR Pant,WP Saha
+1082605,364,Kings XI Punjab,Delhi Daredevils,GJ Maxwell,Z Khan,WP Saha,RR Pant
+1082605,367,Kings XI Punjab,Delhi Daredevils,GJ Maxwell,Z Khan,WP Saha,RR Pant
+1082605,372,Delhi Daredevils,Kings XI Punjab,Z Khan,GJ Maxwell,RR Pant,WP Saha
+1082605,374,Kings XI Punjab,Delhi Daredevils,GJ Maxwell,Z Khan,WP Saha,RR Pant
+1082605,393,Delhi Daredevils,Kings XI Punjab,Z Khan,GJ Maxwell,RR Pant,WP Saha
+1082605,405,Delhi Daredevils,Kings XI Punjab,Z Khan,GJ Maxwell,RR Pant,WP Saha
+1082605,420,Delhi Daredevils,Kings XI Punjab,Z Khan,GJ Maxwell,RR Pant,WP Saha
+1082605,421,Delhi Daredevils,Kings XI Punjab,Z Khan,GJ Maxwell,RR Pant,WP Saha
+1082605,422,Kings XI Punjab,Delhi Daredevils,GJ Maxwell,Z Khan,WP Saha,RR Pant
+1082605,427,Kings XI Punjab,Delhi Daredevils,GJ Maxwell,Z Khan,WP Saha,RR Pant
+1082606,2,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082606,14,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082606,17,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082606,21,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082606,35,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082606,50,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082606,57,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082606,88,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082606,126,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082606,147,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082606,194,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082606,221,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082606,375,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082606,400,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082606,403,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082606,407,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082606,410,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082606,413,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082606,431,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082606,471,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082606,477,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082606,481,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082607,8,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082607,20,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082607,32,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082607,85,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082607,87,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082607,110,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082607,236,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082607,237,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082607,255,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082607,258,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082607,270,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082607,306,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082607,322,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082607,346,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082607,382,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082607,386,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082607,406,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082607,452,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082607,461,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082607,476,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082607,488,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082607,490,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082608,15,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082608,31,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082608,40,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082608,46,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082608,96,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082608,136,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082608,191,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082608,232,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082608,308,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082608,315,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082608,339,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082608,347,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082608,350,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082608,351,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082608,371,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082608,393,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082608,405,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082608,420,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082608,421,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082608,462,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082608,478,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082608,479,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082609,27,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082609,42,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082609,62,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082609,84,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082609,163,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082609,183,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082609,187,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082609,216,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082609,299,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082609,305,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082609,320,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082609,345,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082609,364,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082609,367,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082609,368,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082609,374,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082609,394,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082609,422,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082609,427,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082609,429,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082609,485,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082609,489,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082610,2,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082610,8,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082610,21,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082610,32,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082610,35,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082610,80,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082610,88,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082610,147,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082610,162,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082610,236,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082610,237,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082610,254,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082610,255,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082610,270,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082610,322,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082610,382,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082610,410,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082610,417,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082610,432,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082610,461,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082610,471,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082610,477,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082611,15,Delhi Daredevils,Sunrisers Hyderabad,Z Khan,DA Warner,RR Pant,NV Ojha
+1082611,27,Sunrisers Hyderabad,Delhi Daredevils,DA Warner,Z Khan,NV Ojha,RR Pant
+1082611,42,Sunrisers Hyderabad,Delhi Daredevils,DA Warner,Z Khan,NV Ojha,RR Pant
+1082611,136,Delhi Daredevils,Sunrisers Hyderabad,Z Khan,DA Warner,RR Pant,NV Ojha
+1082611,163,Sunrisers Hyderabad,Delhi Daredevils,DA Warner,Z Khan,NV Ojha,RR Pant
+1082611,183,Sunrisers Hyderabad,Delhi Daredevils,DA Warner,Z Khan,NV Ojha,RR Pant
+1082611,187,Sunrisers Hyderabad,Delhi Daredevils,DA Warner,Z Khan,NV Ojha,RR Pant
+1082611,191,Delhi Daredevils,Sunrisers Hyderabad,Z Khan,DA Warner,RR Pant,NV Ojha
+1082611,299,Sunrisers Hyderabad,Delhi Daredevils,DA Warner,Z Khan,NV Ojha,RR Pant
+1082611,339,Delhi Daredevils,Sunrisers Hyderabad,Z Khan,DA Warner,RR Pant,NV Ojha
+1082611,350,Delhi Daredevils,Sunrisers Hyderabad,Z Khan,DA Warner,RR Pant,NV Ojha
+1082611,351,Delhi Daredevils,Sunrisers Hyderabad,Z Khan,DA Warner,RR Pant,NV Ojha
+1082611,368,Sunrisers Hyderabad,Delhi Daredevils,DA Warner,Z Khan,NV Ojha,RR Pant
+1082611,393,Delhi Daredevils,Sunrisers Hyderabad,Z Khan,DA Warner,RR Pant,NV Ojha
+1082611,394,Sunrisers Hyderabad,Delhi Daredevils,DA Warner,Z Khan,NV Ojha,RR Pant
+1082611,396,Sunrisers Hyderabad,Delhi Daredevils,DA Warner,Z Khan,NV Ojha,RR Pant
+1082611,405,Delhi Daredevils,Sunrisers Hyderabad,Z Khan,DA Warner,RR Pant,NV Ojha
+1082611,420,Delhi Daredevils,Sunrisers Hyderabad,Z Khan,DA Warner,RR Pant,NV Ojha
+1082611,421,Delhi Daredevils,Sunrisers Hyderabad,Z Khan,DA Warner,RR Pant,NV Ojha
+1082611,425,Delhi Daredevils,Sunrisers Hyderabad,Z Khan,DA Warner,RR Pant,NV Ojha
+1082611,486,Sunrisers Hyderabad,Delhi Daredevils,DA Warner,Z Khan,NV Ojha,RR Pant
+1082611,489,Sunrisers Hyderabad,Delhi Daredevils,DA Warner,Z Khan,NV Ojha,RR Pant
+1082612,17,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082612,50,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082612,57,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082612,62,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082612,84,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082612,100,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082612,194,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082612,221,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082612,305,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082612,329,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082612,364,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082612,367,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082612,374,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082612,375,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082612,400,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082612,403,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082612,407,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082612,409,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082612,413,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082612,424,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082612,427,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082612,431,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082613,2,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082613,14,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082613,21,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082613,31,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082613,35,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082613,40,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082613,46,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082613,80,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082613,88,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082613,96,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082613,147,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082613,232,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082613,254,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082613,276,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082613,308,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082613,310,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082613,315,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082613,371,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082613,410,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082613,462,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082613,477,Gujarat Lions,Kolkata Knight Riders,SK Raina,G Gambhir,KD Karthik,RV Uthappa
+1082613,479,Kolkata Knight Riders,Gujarat Lions,G Gambhir,SK Raina,RV Uthappa,KD Karthik
+1082614,15,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082614,17,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082614,50,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082614,57,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082614,136,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082614,207,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082614,221,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082614,339,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082614,350,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082614,351,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082614,357,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082614,372,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082614,375,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082614,393,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082614,400,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082614,403,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082614,405,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082614,407,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082614,413,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082614,420,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082614,431,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082614,482,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082615,20,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082615,42,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082615,85,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082615,87,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082615,163,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082615,183,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082615,187,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082615,228,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082615,258,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082615,299,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082615,306,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082615,346,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082615,368,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082615,386,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082615,394,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082615,396,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082615,406,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082615,476,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082615,486,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082615,488,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082615,489,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082615,497,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082616,2,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082616,21,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082616,35,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082616,62,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082616,88,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082616,100,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082616,147,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082616,254,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082616,305,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082616,345,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082616,364,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082616,367,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082616,374,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082616,409,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082616,414,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082616,422,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082616,427,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082616,471,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082616,477,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082616,487,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082616,492,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082616,493,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082617,8,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,RV Uthappa
+1082617,31,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,RV Uthappa,KM Jadhav
+1082617,40,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,RV Uthappa,KM Jadhav
+1082617,46,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,RV Uthappa,KM Jadhav
+1082617,96,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,RV Uthappa,KM Jadhav
+1082617,110,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,RV Uthappa
+1082617,162,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,RV Uthappa
+1082617,232,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,RV Uthappa,KM Jadhav
+1082617,236,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,RV Uthappa
+1082617,237,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,RV Uthappa
+1082617,255,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,RV Uthappa
+1082617,270,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,RV Uthappa
+1082617,308,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,RV Uthappa,KM Jadhav
+1082617,315,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,RV Uthappa,KM Jadhav
+1082617,322,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,RV Uthappa
+1082617,371,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,RV Uthappa,KM Jadhav
+1082617,382,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,RV Uthappa
+1082617,452,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,RV Uthappa
+1082617,462,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,RV Uthappa,KM Jadhav
+1082617,478,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,RV Uthappa,KM Jadhav
+1082617,479,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,RV Uthappa,KM Jadhav
+1082617,495,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,RV Uthappa
+1082618,17,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082618,20,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082618,50,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082618,57,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082618,85,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082618,87,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082618,166,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082618,221,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082618,258,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082618,306,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082618,346,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082618,357,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082618,375,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082618,386,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082618,400,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082618,403,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082618,406,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082618,407,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082618,431,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082618,476,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082618,488,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082618,497,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082620,20,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,RV Uthappa
+1082620,31,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,RV Uthappa,MS Dhoni
+1082620,40,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,RV Uthappa,MS Dhoni
+1082620,46,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,RV Uthappa,MS Dhoni
+1082620,67,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,RV Uthappa,MS Dhoni
+1082620,85,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,RV Uthappa
+1082620,87,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,RV Uthappa
+1082620,96,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,RV Uthappa,MS Dhoni
+1082620,232,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,RV Uthappa,MS Dhoni
+1082620,258,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,RV Uthappa
+1082620,303,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,RV Uthappa
+1082620,306,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,RV Uthappa
+1082620,315,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,RV Uthappa,MS Dhoni
+1082620,346,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,RV Uthappa
+1082620,386,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,RV Uthappa
+1082620,406,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,RV Uthappa
+1082620,462,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,RV Uthappa,MS Dhoni
+1082620,478,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,RV Uthappa,MS Dhoni
+1082620,479,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,RV Uthappa,MS Dhoni
+1082620,480,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,RV Uthappa,MS Dhoni
+1082620,488,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,RV Uthappa
+1082620,497,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,RV Uthappa
+1082621,2,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082621,8,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082621,21,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082621,35,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082621,88,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082621,110,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082621,162,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082621,236,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082621,237,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082621,254,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082621,270,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082621,310,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082621,322,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082621,382,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082621,410,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082621,417,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082621,452,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082621,470,Royal Challengers Bangalore,Gujarat Lions,V Kohli,SK Raina,KM Jadhav,KD Karthik
+1082621,471,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082621,472,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082621,477,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082621,487,Gujarat Lions,Royal Challengers Bangalore,SK Raina,V Kohli,KD Karthik,KM Jadhav
+1082622,15,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082622,31,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082622,40,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082622,46,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082622,96,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082622,136,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082622,232,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082622,315,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082622,339,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082622,350,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082622,351,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082622,371,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082622,372,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082622,393,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082622,405,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082622,420,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082622,462,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082622,473,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082622,478,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082622,479,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082622,482,Delhi Daredevils,Kolkata Knight Riders,Z Khan,G Gambhir,RR Pant,RV Uthappa
+1082622,491,Kolkata Knight Riders,Delhi Daredevils,G Gambhir,Z Khan,RV Uthappa,RR Pant
+1082623,27,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082623,42,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082623,62,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082623,73,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082623,84,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082623,100,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082623,163,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082623,183,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082623,187,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082623,216,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082623,299,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082623,305,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082623,345,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082623,364,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082623,368,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082623,374,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082623,394,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082623,395,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082623,396,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082623,415,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082623,422,Kings XI Punjab,Sunrisers Hyderabad,GJ Maxwell,DA Warner,WP Saha,NV Ojha
+1082623,489,Sunrisers Hyderabad,Kings XI Punjab,DA Warner,GJ Maxwell,NV Ojha,WP Saha
+1082624,8,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082624,20,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082624,85,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082624,87,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082624,110,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082624,237,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082624,255,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082624,258,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082624,270,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082624,306,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082624,322,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082624,346,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082624,369,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082624,382,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082624,386,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082624,417,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082624,452,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082624,461,Royal Challengers Bangalore,Rising Pune Supergiants,V Kohli,SPD Smith,KM Jadhav,MS Dhoni
+1082624,465,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082624,483,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082624,488,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082624,497,Rising Pune Supergiants,Royal Challengers Bangalore,SPD Smith,V Kohli,MS Dhoni,KM Jadhav
+1082625,2,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082625,17,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082625,21,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082625,29,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082625,35,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082625,50,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082625,57,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082625,88,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082625,194,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082625,221,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082625,254,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082625,310,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082625,375,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082625,400,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082625,403,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082625,407,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082625,410,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082625,413,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082625,431,Mumbai Indians,Gujarat Lions,RG Sharma,SK Raina,PA Patel,KD Karthik
+1082625,471,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082625,472,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082625,477,Gujarat Lions,Mumbai Indians,SK Raina,RG Sharma,KD Karthik,PA Patel
+1082626,62,kings XI Punjab,Delhi Daredevils,GJ Maxwell,KK Nair,WP Saha,RR Pant
+1082626,100,kings XI Punjab,Delhi Daredevils,GJ Maxwell,KK Nair,WP Saha,RR Pant
+1082626,136,Delhi Daredevils,Kings XI Punjab,KK Nair,GJ Maxwell,RR Pant,WP Saha
+1082626,293,Delhi Daredevils,Kings XI Punjab,KK Nair,GJ Maxwell,RR Pant,WP Saha
+1082626,296,kings XI Punjab,Delhi Daredevils,GJ Maxwell,KK Nair,WP Saha,RR Pant
+1082626,305,kings XI Punjab,Delhi Daredevils,GJ Maxwell,KK Nair,WP Saha,RR Pant
+1082626,339,Delhi Daredevils,Kings XI Punjab,KK Nair,GJ Maxwell,RR Pant,WP Saha
+1082626,345,kings XI Punjab,Delhi Daredevils,GJ Maxwell,KK Nair,WP Saha,RR Pant
+1082626,347,Delhi Daredevils,Kings XI Punjab,KK Nair,GJ Maxwell,RR Pant,WP Saha
+1082626,350,Delhi Daredevils,Kings XI Punjab,KK Nair,GJ Maxwell,RR Pant,WP Saha
+1082626,351,Delhi Daredevils,Kings XI Punjab,KK Nair,GJ Maxwell,RR Pant,WP Saha
+1082626,364,kings XI Punjab,Delhi Daredevils,GJ Maxwell,KK Nair,WP Saha,RR Pant
+1082626,367,kings XI Punjab,Delhi Daredevils,GJ Maxwell,KK Nair,WP Saha,RR Pant
+1082626,372,Delhi Daredevils,Kings XI Punjab,KK Nair,GJ Maxwell,RR Pant,WP Saha
+1082626,374,kings XI Punjab,Delhi Daredevils,GJ Maxwell,KK Nair,WP Saha,RR Pant
+1082626,393,Delhi Daredevils,Kings XI Punjab,KK Nair,GJ Maxwell,RR Pant,WP Saha
+1082626,415,kings XI Punjab,Delhi Daredevils,GJ Maxwell,KK Nair,WP Saha,RR Pant
+1082626,420,Delhi Daredevils,Kings XI Punjab,KK Nair,GJ Maxwell,RR Pant,WP Saha
+1082626,421,Delhi Daredevils,Kings XI Punjab,KK Nair,GJ Maxwell,RR Pant,WP Saha
+1082626,427,kings XI Punjab,Delhi Daredevils,GJ Maxwell,KK Nair,WP Saha,RR Pant
+1082626,482,Delhi Daredevils,Kings XI Punjab,KK Nair,GJ Maxwell,RR Pant,WP Saha
+1082626,493,kings XI Punjab,Delhi Daredevils,GJ Maxwell,KK Nair,WP Saha,RR Pant
+1082627,27,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082627,31,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082627,40,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082627,42,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082627,46,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082627,96,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082627,163,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082627,183,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082627,187,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082627,228,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082627,232,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082627,299,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082627,315,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082627,368,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082627,371,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082627,396,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082627,462,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082627,478,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082627,479,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082627,486,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082627,489,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082627,491,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082628,8,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082628,17,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082628,32,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082628,57,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082628,110,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082628,166,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082628,194,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082628,221,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082628,236,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082628,237,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082628,270,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082628,322,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082628,375,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082628,382,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082628,400,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082628,403,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082628,407,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082628,413,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082628,417,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082628,431,Mumbai Indians,Royal Challengers Bangalore,RG Sharma,V Kohli,PA Patel,KM Jadhav
+1082628,461,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082628,470,Royal Challengers Bangalore,Mumbai Indians,V Kohli,RG Sharma,KM Jadhav,PA Patel
+1082629,2,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082629,20,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082629,21,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082629,35,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082629,85,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082629,87,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082629,88,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082629,116,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082629,147,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082629,254,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082629,258,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082629,306,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082629,310,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082629,346,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082629,386,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082629,406,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082629,410,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082629,472,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082629,476,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082629,477,Gujarat Lions,Rising Pune Supergiants,SK Raina,SPD Smith,KD Karthik,MS Dhoni
+1082629,488,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082629,497,Rising Pune Supergiants,Gujarat Lions,SPD Smith,SK Raina,MS Dhoni,KD Karthik
+1082630,27,sunrisers Hyderabad,Delhi Daredevils,DA Warner,KK Nair,NV Ojha,RR Pant
+1082630,42,sunrisers Hyderabad,Delhi Daredevils,DA Warner,KK Nair,NV Ojha,RR Pant
+1082630,136,Delhi Daredevils,Sunrisers Hyderabad,KK Nair,DA Warner,RR Pant,NV Ojha
+1082630,163,sunrisers Hyderabad,Delhi Daredevils,DA Warner,KK Nair,NV Ojha,RR Pant
+1082630,183,sunrisers Hyderabad,Delhi Daredevils,DA Warner,KK Nair,NV Ojha,RR Pant
+1082630,187,sunrisers Hyderabad,Delhi Daredevils,DA Warner,KK Nair,NV Ojha,RR Pant
+1082630,191,Delhi Daredevils,Sunrisers Hyderabad,KK Nair,DA Warner,RR Pant,NV Ojha
+1082630,299,sunrisers Hyderabad,Delhi Daredevils,DA Warner,KK Nair,NV Ojha,RR Pant
+1082630,339,Delhi Daredevils,Sunrisers Hyderabad,KK Nair,DA Warner,RR Pant,NV Ojha
+1082630,347,Delhi Daredevils,Sunrisers Hyderabad,KK Nair,DA Warner,RR Pant,NV Ojha
+1082630,350,Delhi Daredevils,Sunrisers Hyderabad,KK Nair,DA Warner,RR Pant,NV Ojha
+1082630,351,Delhi Daredevils,Sunrisers Hyderabad,KK Nair,DA Warner,RR Pant,NV Ojha
+1082630,368,sunrisers Hyderabad,Delhi Daredevils,DA Warner,KK Nair,NV Ojha,RR Pant
+1082630,372,Delhi Daredevils,Sunrisers Hyderabad,KK Nair,DA Warner,RR Pant,NV Ojha
+1082630,393,Delhi Daredevils,Sunrisers Hyderabad,KK Nair,DA Warner,RR Pant,NV Ojha
+1082630,394,sunrisers Hyderabad,Delhi Daredevils,DA Warner,KK Nair,NV Ojha,RR Pant
+1082630,396,sunrisers Hyderabad,Delhi Daredevils,DA Warner,KK Nair,NV Ojha,RR Pant
+1082630,420,Delhi Daredevils,Sunrisers Hyderabad,KK Nair,DA Warner,RR Pant,NV Ojha
+1082630,425,Delhi Daredevils,Sunrisers Hyderabad,KK Nair,DA Warner,RR Pant,NV Ojha
+1082630,482,Delhi Daredevils,Sunrisers Hyderabad,KK Nair,DA Warner,RR Pant,NV Ojha
+1082630,486,sunrisers Hyderabad,Delhi Daredevils,DA Warner,KK Nair,NV Ojha,RR Pant
+1082630,489,sunrisers Hyderabad,Delhi Daredevils,DA Warner,KK Nair,NV Ojha,RR Pant
+1082631,20,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,SP Jackson
+1082631,31,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,SP Jackson,MS Dhoni
+1082631,40,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,SP Jackson,MS Dhoni
+1082631,85,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,SP Jackson
+1082631,87,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,SP Jackson
+1082631,96,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,SP Jackson,MS Dhoni
+1082631,232,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,SP Jackson,MS Dhoni
+1082631,258,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,SP Jackson
+1082631,306,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,SP Jackson
+1082631,308,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,SP Jackson,MS Dhoni
+1082631,315,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,SP Jackson,MS Dhoni
+1082631,346,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,SP Jackson
+1082631,371,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,SP Jackson,MS Dhoni
+1082631,386,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,SP Jackson
+1082631,406,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,SP Jackson
+1082631,462,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,SP Jackson,MS Dhoni
+1082631,476,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,SP Jackson
+1082631,478,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,SP Jackson,MS Dhoni
+1082631,479,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,SP Jackson,MS Dhoni
+1082631,488,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,SP Jackson
+1082631,491,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir,SPD Smith,SP Jackson,MS Dhoni
+1082631,497,Rising Pune Supergiants,Kolkata Knight Riders,SPD Smith,G Gambhir,MS Dhoni,SP Jackson
+1082632,2,Gujarat Lions,Delhi Daredevils,SK Raina,KK Nair,KD Karthik,RR Pant
+1082632,21,Gujarat Lions,Delhi Daredevils,SK Raina,KK Nair,KD Karthik,RR Pant
+1082632,35,Gujarat Lions,Delhi Daredevils,SK Raina,KK Nair,KD Karthik,RR Pant
+1082632,88,Gujarat Lions,Delhi Daredevils,SK Raina,KK Nair,KD Karthik,RR Pant
+1082632,116,Gujarat Lions,Delhi Daredevils,SK Raina,KK Nair,KD Karthik,RR Pant
+1082632,136,Delhi Daredevils,Gujarat Lions,KK Nair,SK Raina,RR Pant,KD Karthik
+1082632,147,Gujarat Lions,Delhi Daredevils,SK Raina,KK Nair,KD Karthik,RR Pant
+1082632,254,Gujarat Lions,Delhi Daredevils,SK Raina,KK Nair,KD Karthik,RR Pant
+1082632,293,Delhi Daredevils,Gujarat Lions,KK Nair,SK Raina,RR Pant,KD Karthik
+1082632,307,Delhi Daredevils,Gujarat Lions,KK Nair,SK Raina,RR Pant,KD Karthik
+1082632,310,Gujarat Lions,Delhi Daredevils,SK Raina,KK Nair,KD Karthik,RR Pant
+1082632,339,Delhi Daredevils,Gujarat Lions,KK Nair,SK Raina,RR Pant,KD Karthik
+1082632,347,Delhi Daredevils,Gujarat Lions,KK Nair,SK Raina,RR Pant,KD Karthik
+1082632,351,Delhi Daredevils,Gujarat Lions,KK Nair,SK Raina,RR Pant,KD Karthik
+1082632,372,Delhi Daredevils,Gujarat Lions,KK Nair,SK Raina,RR Pant,KD Karthik
+1082632,393,Delhi Daredevils,Gujarat Lions,KK Nair,SK Raina,RR Pant,KD Karthik
+1082632,405,Delhi Daredevils,Gujarat Lions,KK Nair,SK Raina,RR Pant,KD Karthik
+1082632,410,Gujarat Lions,Delhi Daredevils,SK Raina,KK Nair,KD Karthik,RR Pant
+1082632,420,Delhi Daredevils,Gujarat Lions,KK Nair,SK Raina,RR Pant,KD Karthik
+1082632,472,Gujarat Lions,Delhi Daredevils,SK Raina,KK Nair,KD Karthik,RR Pant
+1082632,477,Gujarat Lions,Delhi Daredevils,SK Raina,KK Nair,KD Karthik,RR Pant
+1082632,482,Delhi Daredevils,Gujarat Lions,KK Nair,SK Raina,RR Pant,KD Karthik
+1082633,8,Royal Challengers Bangalore,Kings XI Punjab,V Kohli,GJ Maxwell,KM Jadhav,WP Saha
+1082633,32,Royal Challengers Bangalore,Kings XI Punjab,V Kohli,GJ Maxwell,KM Jadhav,WP Saha
+1082633,62,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,V Kohli,WP Saha,KM Jadhav
+1082633,100,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,V Kohli,WP Saha,KM Jadhav
+1082633,110,Royal Challengers Bangalore,Kings XI Punjab,V Kohli,GJ Maxwell,KM Jadhav,WP Saha
+1082633,162,Royal Challengers Bangalore,Kings XI Punjab,V Kohli,GJ Maxwell,KM Jadhav,WP Saha
+1082633,236,Royal Challengers Bangalore,Kings XI Punjab,V Kohli,GJ Maxwell,KM Jadhav,WP Saha
+1082633,237,Royal Challengers Bangalore,Kings XI Punjab,V Kohli,GJ Maxwell,KM Jadhav,WP Saha
+1082633,270,Royal Challengers Bangalore,Kings XI Punjab,V Kohli,GJ Maxwell,KM Jadhav,WP Saha
+1082633,296,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,V Kohli,WP Saha,KM Jadhav
+1082633,305,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,V Kohli,WP Saha,KM Jadhav
+1082633,322,Royal Challengers Bangalore,Kings XI Punjab,V Kohli,GJ Maxwell,KM Jadhav,WP Saha
+1082633,345,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,V Kohli,WP Saha,KM Jadhav
+1082633,364,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,V Kohli,WP Saha,KM Jadhav
+1082633,367,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,V Kohli,WP Saha,KM Jadhav
+1082633,374,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,V Kohli,WP Saha,KM Jadhav
+1082633,382,Royal Challengers Bangalore,Kings XI Punjab,V Kohli,GJ Maxwell,KM Jadhav,WP Saha
+1082633,415,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,V Kohli,WP Saha,KM Jadhav
+1082633,427,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,V Kohli,WP Saha,KM Jadhav
+1082633,452,Royal Challengers Bangalore,Kings XI Punjab,V Kohli,GJ Maxwell,KM Jadhav,WP Saha
+1082633,470,Royal Challengers Bangalore,Kings XI Punjab,V Kohli,GJ Maxwell,KM Jadhav,WP Saha
+1082633,493,Kings XI Punjab,Royal Challengers Bangalore,GJ Maxwell,V Kohli,WP Saha,KM Jadhav
+1082634,20,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082634,27,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082634,42,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082634,73,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082634,85,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082634,87,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082634,163,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082634,183,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082634,187,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082634,228,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082634,258,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082634,299,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082634,306,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082634,346,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082634,368,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082634,386,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082634,396,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082634,406,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082634,476,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082634,488,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082634,489,Sunrisers Hyderabad,Rising Pune Supergiants,DA Warner,SPD Smith,NV Ojha,MS Dhoni
+1082634,497,Rising Pune Supergiants,Sunrisers Hyderabad,SPD Smith,DA Warner,MS Dhoni,NV Ojha
+1082635,15,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082635,17,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082635,50,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082635,57,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082635,136,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082635,166,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082635,194,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082635,221,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082635,307,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082635,339,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082635,347,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082635,351,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082635,372,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082635,375,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082635,383,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082635,393,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082635,400,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082635,403,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082635,405,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082635,420,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082635,431,Mumbai Indians,Delhi Daredevils,RG Sharma,Z Khan,PA Patel,RR Pant
+1082635,482,Delhi Daredevils,Mumbai Indians,Z Khan,RG Sharma,RR Pant,PA Patel
+1082636,8,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,SP Jackson
+1082636,31,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,SP Jackson,KM Jadhav
+1082636,40,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,SP Jackson,KM Jadhav
+1082636,67,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,SP Jackson,KM Jadhav
+1082636,96,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,SP Jackson,KM Jadhav
+1082636,110,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,SP Jackson
+1082636,162,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,SP Jackson
+1082636,232,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,SP Jackson,KM Jadhav
+1082636,236,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,SP Jackson
+1082636,237,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,SP Jackson
+1082636,270,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,SP Jackson
+1082636,315,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,SP Jackson,KM Jadhav
+1082636,322,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,SP Jackson
+1082636,336,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,SP Jackson,KM Jadhav
+1082636,344,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,SP Jackson,KM Jadhav
+1082636,382,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,SP Jackson
+1082636,417,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,SP Jackson
+1082636,452,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,SP Jackson
+1082636,470,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,G Gambhir,KM Jadhav,SP Jackson
+1082636,478,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,SP Jackson,KM Jadhav
+1082636,479,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,SP Jackson,KM Jadhav
+1082636,491,Kolkata Knight Riders,Royal Challengers Bangalore,G Gambhir,V Kohli,SP Jackson,KM Jadhav
+1082637,21,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082637,35,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082637,62,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082637,80,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082637,88,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082637,100,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082637,116,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082637,147,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082637,254,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082637,296,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082637,305,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082637,310,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082637,329,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082637,364,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082637,367,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082637,374,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082637,410,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082637,415,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082637,427,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082637,472,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082637,477,Gujarat Lions,Kings XI Punjab,SK Raina,GJ Maxwell,KD Karthik,WP Saha
+1082637,493,Kings XI Punjab,Gujarat Lions,GJ Maxwell,SK Raina,WP Saha,KD Karthik
+1082638,17,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082638,27,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082638,42,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082638,50,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082638,57,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082638,163,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082638,166,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082638,183,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082638,187,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082638,194,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082638,221,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082638,299,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082638,368,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082638,375,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082638,383,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082638,400,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082638,403,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082638,431,Mumbai Indians,Sunrisers Hyderabad,RG Sharma,DA Warner,PA Patel,NV Ojha
+1082638,455,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082638,485,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082638,486,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082638,489,Sunrisers Hyderabad,Mumbai Indians,DA Warner,RG Sharma,NV Ojha,PA Patel
+1082639,31,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082639,40,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082639,46,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082639,62,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082639,96,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082639,100,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082639,232,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082639,305,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082639,315,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082639,336,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082639,344,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082639,345,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082639,364,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082639,367,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082639,374,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082639,390,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082639,415,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082639,424,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082639,462,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082639,478,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082639,479,Kolkata Knight Riders,Kings XI Punjab,G Gambhir,GJ Maxwell,RV Uthappa,WP Saha
+1082639,484,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell,G Gambhir,WP Saha,RV Uthappa
+1082640,15,Delhi Daredevils,Gujarat Lions,Z Khan,SK Raina,RR Pant,KD Karthik
+1082640,21,Gujarat Lions,Delhi Daredevils,SK Raina,Z Khan,KD Karthik,RR Pant
+1082640,35,Gujarat Lions,Delhi Daredevils,SK Raina,Z Khan,KD Karthik,RR Pant
+1082640,80,Gujarat Lions,Delhi Daredevils,SK Raina,Z Khan,KD Karthik,RR Pant
+1082640,88,Gujarat Lions,Delhi Daredevils,SK Raina,Z Khan,KD Karthik,RR Pant
+1082640,116,Gujarat Lions,Delhi Daredevils,SK Raina,Z Khan,KD Karthik,RR Pant
+1082640,136,Delhi Daredevils,Gujarat Lions,Z Khan,SK Raina,RR Pant,KD Karthik
+1082640,147,Gujarat Lions,Delhi Daredevils,SK Raina,Z Khan,KD Karthik,RR Pant
+1082640,254,Gujarat Lions,Delhi Daredevils,SK Raina,Z Khan,KD Karthik,RR Pant
+1082640,307,Delhi Daredevils,Gujarat Lions,Z Khan,SK Raina,RR Pant,KD Karthik
+1082640,310,Gujarat Lions,Delhi Daredevils,SK Raina,Z Khan,KD Karthik,RR Pant
+1082640,339,Delhi Daredevils,Gujarat Lions,Z Khan,SK Raina,RR Pant,KD Karthik
+1082640,347,Delhi Daredevils,Gujarat Lions,Z Khan,SK Raina,RR Pant,KD Karthik
+1082640,351,Delhi Daredevils,Gujarat Lions,Z Khan,SK Raina,RR Pant,KD Karthik
+1082640,372,Delhi Daredevils,Gujarat Lions,Z Khan,SK Raina,RR Pant,KD Karthik
+1082640,393,Delhi Daredevils,Gujarat Lions,Z Khan,SK Raina,RR Pant,KD Karthik
+1082640,405,Delhi Daredevils,Gujarat Lions,Z Khan,SK Raina,RR Pant,KD Karthik
+1082640,408,Delhi Daredevils,Gujarat Lions,Z Khan,SK Raina,RR Pant,KD Karthik
+1082640,410,Gujarat Lions,Delhi Daredevils,SK Raina,Z Khan,KD Karthik,RR Pant
+1082640,420,Delhi Daredevils,Gujarat Lions,Z Khan,SK Raina,RR Pant,KD Karthik
+1082640,472,Gujarat Lions,Delhi Daredevils,SK Raina,Z Khan,KD Karthik,RR Pant
+1082640,477,Gujarat Lions,Delhi Daredevils,SK Raina,Z Khan,KD Karthik,RR Pant
+1082641,17,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082641,50,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082641,57,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082641,62,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082641,84,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082641,100,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082641,166,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082641,194,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082641,221,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082641,305,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082641,345,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082641,364,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082641,367,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082641,374,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082641,375,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082641,383,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082641,390,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082641,400,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082641,403,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082641,415,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082641,431,Mumbai Indians,Kings XI Punjab,RG Sharma,GJ Maxwell,PA Patel,WP Saha
+1082641,484,Kings XI Punjab,Mumbai Indians,GJ Maxwell,RG Sharma,WP Saha,PA Patel
+1082642,15,Delhi Daredevils,Rising Pune Supergiants,Z Khan,SPD Smith,RR Pant,MS Dhoni
+1082642,20,Rising Pune Supergiants,Delhi Daredevils,SPD Smith,Z Khan,MS Dhoni,RR Pant
+1082642,85,Rising Pune Supergiants,Delhi Daredevils,SPD Smith,Z Khan,MS Dhoni,RR Pant
+1082642,87,Rising Pune Supergiants,Delhi Daredevils,SPD Smith,Z Khan,MS Dhoni,RR Pant
+1082642,136,Delhi Daredevils,Rising Pune Supergiants,Z Khan,SPD Smith,RR Pant,MS Dhoni
+1082642,258,Rising Pune Supergiants,Delhi Daredevils,SPD Smith,Z Khan,MS Dhoni,RR Pant
+1082642,293,Delhi Daredevils,Rising Pune Supergiants,Z Khan,SPD Smith,RR Pant,MS Dhoni
+1082642,306,Rising Pune Supergiants,Delhi Daredevils,SPD Smith,Z Khan,MS Dhoni,RR Pant
+1082642,307,Delhi Daredevils,Rising Pune Supergiants,Z Khan,SPD Smith,RR Pant,MS Dhoni
+1082642,339,Delhi Daredevils,Rising Pune Supergiants,Z Khan,SPD Smith,RR Pant,MS Dhoni
+1082642,346,Rising Pune Supergiants,Delhi Daredevils,SPD Smith,Z Khan,MS Dhoni,RR Pant
+1082642,347,Delhi Daredevils,Rising Pune Supergiants,Z Khan,SPD Smith,RR Pant,MS Dhoni
+1082642,351,Delhi Daredevils,Rising Pune Supergiants,Z Khan,SPD Smith,RR Pant,MS Dhoni
+1082642,372,Delhi Daredevils,Rising Pune Supergiants,Z Khan,SPD Smith,RR Pant,MS Dhoni
+1082642,393,Delhi Daredevils,Rising Pune Supergiants,Z Khan,SPD Smith,RR Pant,MS Dhoni
+1082642,405,Delhi Daredevils,Rising Pune Supergiants,Z Khan,SPD Smith,RR Pant,MS Dhoni
+1082642,406,Rising Pune Supergiants,Delhi Daredevils,SPD Smith,Z Khan,MS Dhoni,RR Pant
+1082642,420,Delhi Daredevils,Rising Pune Supergiants,Z Khan,SPD Smith,RR Pant,MS Dhoni
+1082642,430,Rising Pune Supergiants,Delhi Daredevils,SPD Smith,Z Khan,MS Dhoni,RR Pant
+1082642,476,Rising Pune Supergiants,Delhi Daredevils,SPD Smith,Z Khan,MS Dhoni,RR Pant
+1082642,488,Rising Pune Supergiants,Delhi Daredevils,SPD Smith,Z Khan,MS Dhoni,RR Pant
+1082642,497,Rising Pune Supergiants,Delhi Daredevils,SPD Smith,Z Khan,MS Dhoni,RR Pant
+1082643,14,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082643,21,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082643,35,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082643,42,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082643,88,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082643,116,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082643,126,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082643,147,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082643,163,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082643,183,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082643,187,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082643,254,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082643,299,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082643,310,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082643,368,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082643,394,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082643,410,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082643,455,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082643,472,Gujarat Lions,Sunrisers Hyderabad,SK Raina,DA Warner,KD Karthik,NV Ojha
+1082643,485,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082643,486,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082643,489,Sunrisers Hyderabad,Gujarat Lions,DA Warner,SK Raina,NV Ojha,KD Karthik
+1082644,31,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,AT Rayudu
+1082644,40,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,AT Rayudu
+1082644,46,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,AT Rayudu
+1082644,57,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,AT Rayudu,RV Uthappa
+1082644,79,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,AT Rayudu,RV Uthappa
+1082644,81,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,AT Rayudu,RV Uthappa
+1082644,96,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,AT Rayudu
+1082644,166,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,AT Rayudu,RV Uthappa
+1082644,208,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,AT Rayudu,RV Uthappa
+1082644,221,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,AT Rayudu,RV Uthappa
+1082644,232,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,AT Rayudu
+1082644,315,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,AT Rayudu
+1082644,336,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,AT Rayudu
+1082644,344,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,AT Rayudu
+1082644,357,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,AT Rayudu,RV Uthappa
+1082644,377,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,AT Rayudu,RV Uthappa
+1082644,383,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,AT Rayudu,RV Uthappa
+1082644,400,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,AT Rayudu,RV Uthappa
+1082644,413,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,AT Rayudu,RV Uthappa
+1082644,458,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,AT Rayudu
+1082644,462,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,AT Rayudu
+1082644,478,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,AT Rayudu
+1082645,20,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082645,62,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082645,84,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082645,85,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082645,87,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082645,100,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082645,216,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082645,258,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082645,305,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082645,306,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082645,346,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082645,364,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082645,367,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082645,374,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082645,390,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082645,406,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082645,415,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082645,424,Kings XI Punjab,Rising Pune Supergiants,GJ Maxwell,SPD Smith,WP Saha,MS Dhoni
+1082645,430,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082645,476,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082645,488,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082645,497,Rising Pune Supergiants,Kings XI Punjab,SPD Smith,GJ Maxwell,MS Dhoni,WP Saha
+1082646,8,Royal Challengers Bangalore,Delhi Daredevils,V Kohli,Z Khan,Vishnu Vinod,RR Pant
+1082646,15,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,V Kohli,RR Pant,Vishnu Vinod
+1082646,32,Royal Challengers Bangalore,Delhi Daredevils,V Kohli,Z Khan,Vishnu Vinod,RR Pant
+1082646,136,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,V Kohli,RR Pant,Vishnu Vinod
+1082646,162,Royal Challengers Bangalore,Delhi Daredevils,V Kohli,Z Khan,Vishnu Vinod,RR Pant
+1082646,237,Royal Challengers Bangalore,Delhi Daredevils,V Kohli,Z Khan,Vishnu Vinod,RR Pant
+1082646,293,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,V Kohli,RR Pant,Vishnu Vinod
+1082646,307,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,V Kohli,RR Pant,Vishnu Vinod
+1082646,311,Royal Challengers Bangalore,Delhi Daredevils,V Kohli,Z Khan,Vishnu Vinod,RR Pant
+1082646,322,Royal Challengers Bangalore,Delhi Daredevils,V Kohli,Z Khan,Vishnu Vinod,RR Pant
+1082646,339,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,V Kohli,RR Pant,Vishnu Vinod
+1082646,347,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,V Kohli,RR Pant,Vishnu Vinod
+1082646,351,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,V Kohli,RR Pant,Vishnu Vinod
+1082646,369,Royal Challengers Bangalore,Delhi Daredevils,V Kohli,Z Khan,Vishnu Vinod,RR Pant
+1082646,372,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,V Kohli,RR Pant,Vishnu Vinod
+1082646,382,Royal Challengers Bangalore,Delhi Daredevils,V Kohli,Z Khan,Vishnu Vinod,RR Pant
+1082646,393,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,V Kohli,RR Pant,Vishnu Vinod
+1082646,405,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,V Kohli,RR Pant,Vishnu Vinod
+1082646,417,Royal Challengers Bangalore,Delhi Daredevils,V Kohli,Z Khan,Vishnu Vinod,RR Pant
+1082646,420,Delhi Daredevils,Royal Challengers Bangalore,Z Khan,V Kohli,RR Pant,Vishnu Vinod
+1082646,474,Royal Challengers Bangalore,Delhi Daredevils,V Kohli,Z Khan,Vishnu Vinod,RR Pant
+1082646,496,Royal Challengers Bangalore,Delhi Daredevils,V Kohli,Z Khan,Vishnu Vinod,RR Pant
+1082647,17,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082647,20,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082647,57,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082647,85,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082647,87,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082647,166,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082647,194,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082647,208,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082647,221,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082647,258,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082647,306,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082647,346,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082647,375,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082647,383,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082647,400,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082647,403,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082647,406,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082647,413,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082647,430,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082647,483,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082647,488,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082647,497,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082648,27,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082648,31,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082648,40,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082648,42,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082648,46,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082648,67,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082648,183,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082648,187,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082648,228,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082648,232,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082648,257,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082648,299,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082648,308,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082648,315,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082648,336,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082648,368,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082648,371,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082648,396,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082648,434,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082648,455,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082648,458,Kolkata Knight Riders,Sunrisers Hyderabad,G Gambhir,DA Warner,RV Uthappa,NV Ojha
+1082648,489,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner,G Gambhir,NV Ojha,RV Uthappa
+1082649,17,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082649,40,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082649,46,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082649,57,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082649,67,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082649,166,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082649,194,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082649,208,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082649,221,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082649,232,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082649,257,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082649,308,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082649,315,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082649,336,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082649,344,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082649,357,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082649,371,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082649,375,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082649,383,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082649,400,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082649,413,Mumbai Indians,Kolkata Knight Riders,RG Sharma,G Gambhir,PA Patel,RV Uthappa
+1082649,478,Kolkata Knight Riders,Mumbai Indians,G Gambhir,RG Sharma,RV Uthappa,PA Patel
+1082650,17,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082650,20,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082650,57,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082650,85,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082650,87,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082650,166,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082650,194,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082650,208,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082650,221,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082650,258,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082650,306,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082650,346,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082650,357,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082650,375,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082650,383,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082650,400,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082650,406,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082650,413,Mumbai Indians,Rising Pune Supergiants,RG Sharma,SPD Smith,PA Patel,MS Dhoni
+1082650,430,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082650,483,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082650,488,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel
+1082650,497,Rising Pune Supergiants,Mumbai Indians,SPD Smith,RG Sharma,MS Dhoni,PA Patel

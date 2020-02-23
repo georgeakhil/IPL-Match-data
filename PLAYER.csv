@@ -1,0 +1,1299 @@
+Player_ID,Player_Name,Date_of_Birth,Team_ID,Country,Batting_Style,Bowling_Style,Role,Player_Captain_ID
+27,Yuvraj Singh,12/12/1981,6,India,Left-hand bat,Slow left-arm orthodox,Player,187
+32,SR Watson,6/17/1981,2,Australia,Right-hand bat,Right-arm fast-medium,Captain,8
+42,S Dhawan,12/5/1985,6,India,Left-hand bat,Right-arm offbreak,Player,187
+73,A Nehra,4/29/1979,6,India,Right-hand bat,Left-arm medium-fast,Player,187
+162,CH Gayle,9/21/1979,2,West Indies,Left-hand bat,Right-arm offbreak,Player,8
+163,MC Henriques,2/1/1987,6,Australia,Right-hand bat,Right-arm fast-medium,Player,187
+183,NV Ojha,7/20/1983,6,India,Right-hand bat,NULL,Keeper,187
+187,DA Warner,10/27/1986,6,Australia,Left-hand bat,Legbreak,Captain,187
+228,Bipul Sharma,9/28/1983,6,India,Left-hand bat,Slow left-arm orthodox,Player,187
+236,Mandeep Singh,12/18/1991,2,India,Right-hand bat,Right-arm medium,Player,8
+237,KM Jadhav,3/26/1985,2,India,Right-hand bat,Right-arm offbreak,Keeper,8
+255,STR Binny,6/3/1984,2,India,Right-hand bat,Right-arm medium,Player,8
+270,S Aravind,4/8/1984,2,India,Left-hand bat,Left-arm medium-fast,Player,8
+299,B Kumar,2/5/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+369,Sachin Baby,12/18/1988,2,India,Left-hand bat,Right-arm offbreak,Player,8
+382,YS Chahal,7/23/1990,2,India,Right-hand bat,Legbreak googly,Player,8
+385,BCJ Cutting,1/30/1987,6,Australia,Right-hand bat,Right-arm fast-medium,Player,187
+394,DJ Hooda,4/19/1995,6,India,Right-hand bat,Right-arm offbreak,Player,187
+417,TM Head,12/29/1993,2,Australia,Left-hand bat,Right-arm offbreak,Player,8
+470,A Choudhary,1/28/1990,2,India,Right-hand bat,Left-arm medium,Player,8
+489,Rashid Khan,11/20/1998,6,Afghanistan,Right-hand bat,Legbreak googly,Player,187
+495,TS Mills,8/12/1992,2,England,Right-hand bat,ÿLeft-arm fast,Player,8
+17,PA Patel,3/9/1985,5,India,Left-hand bat,NULL,Keeper,57
+20,MS Dhoni,7/7/1981,7,India,Right-hand bat,Right-arm medium,Keeper,306
+57,RG Sharma,4/30/1987,5,India,Right-hand bat,Right-arm offbreak,Captain,57
+85,AM Rahane,6/6/1988,7,India,Right-hand bat,Right-arm medium,Player,306
+87,MK Tiwary,11/14/1985,7,India,Right-hand bat,Legbreak googly,Player,306
+89,R Bhatia,10/22/1979,7,India,Right-hand bat,Right-arm medium-fast,Player,306
+106,AB Dinda,3/25/1984,7,India,Right-hand bat,Right-arm medium-fast,Player,306
+208,AT Rayudu,9/23/1985,5,India,Right-hand bat,Right-arm offbreak,Player,57
+221,KA Pollard,5/12/1987,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+260,MA Agarwal,2/16/1991,7,India,Right-hand bat,NULL,Player,306
+306,SPD Smith,6/2/1989,7,India,Right-hand bat,Legbreak googly,Captain,306
+375,JJ Bumrah,12/6/1993,5,India,Right-hand bat,Right-arm medium,Player,57
+377,TG Southee,12/11/1988,5,New Zealand,Right-hand bat,Right-arm medium-fast,Player,57
+386,Imran Tahir,3/27/1979,7,India,Right-hand bat,Legbreak googly,Player,306
+400,HH Pandya,10/11/1993,5,India,Right-hand bat,Right-arm medium-fast,Player,57
+403,MJ McClenaghan,6/11/1986,5,New Zealand,Left-hand bat,Left-arm fast-medium,Player,57
+407,JC Buttler,9/8/1990,5,England,Right-hand bat,NULL,Player,57
+413,KH Pandya,3/24/1991,5,India,Left-hand bat,Slow left-arm orthodox,Player,57
+430,A Zampa,3/31/1992,7,Australia,Right-hand bat,Legbreak googly,Player,306
+431,N Rana,12/27/1993,5,India,Left-hand bat,Right-arm offbreak,Player,57
+465,DL Chahar,8/7/1992,7,India,Right-hand bat,Right-arm medium,Player,306
+476,BA Stokes,6/4/1991,7,England,Left-hand bat,Right-arm fast-medium,Player,306
+2,BB McCullum,9/27/1981,8,New Zealand,Right-hand bat,Right-arm medium,Player,21
+14,P Kumar,10/2/1986,8,India,Right-hand bat,Right-arm medium,Player,21
+21,SK Raina,11/27/1986,8,India,Left-hand bat,Right-arm offbreak,Captain,21
+31,YK Pathan,11/17/1982,1,India,Right-hand bat,Right-arm offbreak,Player,40
+40,G Gambhir,10/14/1981,1,India,Left-hand bat,Legbreak,Captain,40
+46,RV Uthappa,11/11/1985,1,India,Right-hand bat,Right-arm medium,Keeper,40
+67,PP Chawla,12/24/1988,1,India,Left-hand bat,Legbreak,Player,40
+80,DS Kulkarni,12/10/1988,8,India,Right-hand bat,Right-arm medium,Player,21
+88,KD Karthik,6/1/1985,8,India,Right-hand bat,NULL,Keeper,21
+96,MK Pandey,9/10/1989,1,India,Right-hand bat,Right-arm medium,Player,40
+120,MS Gony,1/4/1984,8,India,Right-hand bat,Right-arm medium,Player,21
+147,DR Smith,4/12/1983,8,West Indies,Right-hand bat,Right-arm medium,Player,21
+186,SB Jakati,11/27/1980,8,India,Left-hand bat,Slow left-arm orthodox,Player,21
+254,AJ Finch,11/17/1986,8,Australia,Right-hand bat,Slow left-arm orthodox,Player,21
+308,SA Yadav,9/14/1990,1,India,Right-hand bat,Right-arm offbreak,Player,40
+315,SP Narine,5/26/1988,1,West Indies,Left-hand bat,Right-arm offbreak,Player,40
+336,CA Lynn,4/10/1990,1,Australia,Right-hand bat,Slow left-arm orthodox,Player,40
+432,S Kaushik,9/7/1995,8,India,Right-hand bat,Slow left-arm chinaman,Player,21
+458,TA Boult,7/22/1989,1,New Zealand,Right-hand bat,Left-arm fast-medium,Player,40
+462,Kuldeep Yadav,12/14/1994,1,India,Left-hand bat,Slow left-arm chinaman,Player,40
+479,CR Woakes,3/2/1989,1,England,ÿRight-hand bat,Right-arm fast-medium,Player,40
+481,JJ Roy,7/21/1990,8,England,ÿRight-hand bat,NULL,Player,21
+20,MS Dhoni,7/7/1981,7,India,Right-hand bat,Right-arm medium,Keeper,306
+62,WP Saha,10/24/1984,3,India,Right-hand bat,NULL,Keeper,305
+85,AM Rahane,6/6/1988,7,India,Right-hand bat,Right-arm medium,Player,306
+87,MK Tiwary,11/14/1985,7,India,Right-hand bat,Legbreak googly,Player,306
+89,R Bhatia,10/22/1979,7,India,Right-hand bat,Right-arm medium-fast,Player,306
+106,AB Dinda,3/25/1984,7,India,Right-hand bat,Right-arm medium-fast,Player,306
+258,DT Christian,5/4/1983,7,Australia,Right-hand bat,Right-arm fast-medium,Player,306
+260,MA Agarwal,2/16/1991,7,India,Right-hand bat,NULL,Player,306
+305,GJ Maxwell,10/14/1988,3,Australia,Right-hand bat,Right-arm offbreak,Captain,305
+306,SPD Smith,6/2/1989,7,India,Right-hand bat,Legbreak googly,Captain,306
+320,DA Miller,6/10/1989,3,South Africa,Left-hand bat,Right-arm offbreak,Player,305
+345,M Vohra,7/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+364,MM Sharma,9/18/1988,3,India,Right-hand bat,Right-arm medium,Player,305
+367,Sandeep Sharma,5/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+374,AR Patel,1/20/1994,3,India,Left-hand bat,Slow left-arm orthodox,Player,305
+386,Imran Tahir,3/27/1979,7,India,Right-hand bat,Legbreak googly,Player,306
+409,MP Stoinis,8/16/1989,3,Australia,Right-hand bat,Right-arm medium,Player,305
+424,Swapnil Singh,1/22/1991,3,India,Right-hand bat,Slow left-arm orthodox,Player,305
+427,HM Amla,3/31/1983,3,South Africa,Right-hand bat,Right-arm offbreak,Player,305
+476,BA Stokes,6/4/1991,7,England,Left-hand bat,Right-arm fast-medium,Player,306
+490,RD Chahar,8/4/1999,7,India,Right-hand bat,Legbreak googly,Player,306
+493,T Natarajan,5/27/1991,3,India,Left-hand bat,Left-arm medium,Player,305
+15,Z Khan,10/7/1978,4,India,Right-hand bat,Left-arm fast-medium,Captain,15
+32,SR Watson,6/17/1981,2,Australia,Right-hand bat,Right-arm fast-medium,Captain,8
+136,A Mishra,11/24/1982,4,India,Right-hand bat,Legbreak,Player,15
+140,Iqbal Abdulla,12/2/1989,2,India,Left-hand bat,Slow left-arm orthodox,Player,8
+162,CH Gayle,9/21/1979,2,West Indies,Left-hand bat,Right-arm offbreak,Player,8
+207,AP Tare,11/7/1987,4,India,Right-hand bat,NULL,Player,15
+236,Mandeep Singh,12/18/1991,2,India,Right-hand bat,Right-arm medium,Player,8
+237,KM Jadhav,3/26/1985,2,India,Right-hand bat,Right-arm offbreak,Player,8
+255,STR Binny,6/3/1984,2,India,Right-hand bat,Right-arm medium,Player,8
+293,S Nadeem,8/12/1989,4,India,Right-hand bat,Slow left-arm orthodox,Player,15
+322,P Negi,1/6/1993,2,India,Left-hand bat,Slow left-arm orthodox,Player,8
+339,KK Nair,12/6/1991,4,India,Right-hand bat,Right-arm offbreak,Player,15
+350,CH Morris,4/30/1987,4,South Africa,Right-hand bat,Right-arm fast-medium,Player,15
+351,SV Samson,11/11/1994,4,India,Right-hand bat,NULL,Player,15
+382,YS Chahal,7/23/1990,2,India,Right-hand bat,Legbreak googly,Player,8
+405,PJ Cummins,5/8/1993,4,Australia,Right-hand bat,Right-arm fast,Player,15
+408,CR Brathwaite,7/18/1988,4,West Indies,Right-hand bat,Right-arm fast-medium,Player,15
+420,RR Pant,10/4/1997,4,India,Left-hand bat,NULL,Keeper,15
+421,SW Billings,6/15/1991,4,England,Right-hand bat,NULL,Player,15
+475,B Stanlake,11/4/1994,2,Australia,Left-hand bat,Right-arm fast,Player,8
+495,TS Mills,8/12/1992,2,England,Right-hand bat,ÿLeft-arm fast,Player,8
+496,Vishnu Vinod,12/2/1993,2,India,Right-hand bat,NULL,Keeper,8
+2,BB McCullum,9/27/1981,8,New Zealand,Right-hand bat,Right-arm medium,Player,21
+14,P Kumar,10/2/1986,8,India,Right-hand bat,Right-arm medium,Player,21
+21,SK Raina,11/27/1986,8,India,Left-hand bat,Right-arm offbreak,Captain,21
+27,Yuvraj Singh,12/12/1981,6,India,Left-hand bat,Slow left-arm orthodox,Player,187
+42,S Dhawan,12/5/1985,6,India,Left-hand bat,Right-arm offbreak,Player,187
+73,A Nehra,4/29/1979,6,India,Right-hand bat,Left-arm medium-fast,Player,187
+80,DS Kulkarni,12/10/1988,8,India,Right-hand bat,Right-arm medium,Player,21
+88,KD Karthik,6/1/1985,8,India,Right-hand bat,NULL,Keeper,21
+147,DR Smith,4/12/1983,8,West Indies,Right-hand bat,Right-arm medium,Player,21
+163,MC Henriques,2/1/1987,6,Australia,Right-hand bat,Right-arm fast-medium,Player,187
+183,NV Ojha,7/20/1983,6,India,Right-hand bat,NULL,Keeper,187
+187,DA Warner,10/27/1986,6,Australia,Left-hand bat,Legbreak,Captain,187
+228,Bipul Sharma,9/28/1983,6,India,Left-hand bat,Slow left-arm orthodox,Player,187
+254,AJ Finch,11/17/1986,8,Australia,Right-hand bat,Slow left-arm orthodox,Player,21
+299,B Kumar,2/5/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+385,BCJ Cutting,1/30/1987,6,Australia,Right-hand bat,Right-arm fast-medium,Player,187
+394,DJ Hooda,4/19/1995,6,India,Right-hand bat,Right-arm offbreak,Player,187
+432,S Kaushik,9/7/1995,8,India,Right-hand bat,Slow left-arm chinaman,Player,21
+477,Basil Thampi,9/11/1993,8,India,Right-hand bat,ÿRight-arm fast-medium,Player,21
+481,JJ Roy,7/21/1990,8,England,ÿRight-hand bat,NULL,Player,21
+489,Rashid Khan,11/20/1998,6,Afghanistan,Right-hand bat,Legbreak googly,Player,187
+494,Tejas Baroka,2/1/1996,8,India,Right-hand bat,Legbreak googly,Player,21
+17,PA Patel,3/9/1985,5,India,Left-hand bat,NULL,Keeper,57
+31,YK Pathan,11/17/1982,1,India,Right-hand bat,Right-arm offbreak,Player,40
+40,G Gambhir,10/14/1981,1,India,Left-hand bat,Legbreak,Captain,40
+46,RV Uthappa,11/11/1985,1,India,Right-hand bat,Right-arm medium,Keeper,40
+50,Harbhajan Singh,7/3/1980,5,India,Right-hand bat,Right-arm offbreak,Player,57
+57,RG Sharma,4/30/1987,5,India,Right-hand bat,Right-arm offbreak,Captain,57
+96,MK Pandey,9/10/1989,1,India,Right-hand bat,Right-arm medium,Player,40
+194,SL Malinga,8/28/1983,5,Sri Lanka,Right-hand bat,Right-arm fast,Player,57
+221,KA Pollard,5/12/1987,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+308,SA Yadav,9/14/1990,1,India,Right-hand bat,Right-arm offbreak,Player,40
+315,SP Narine,5/26/1988,1,West Indies,Left-hand bat,Right-arm offbreak,Player,40
+336,CA Lynn,4/10/1990,1,Australia,Right-hand bat,Slow left-arm orthodox,Player,40
+344,AS Rajpoot,12/4/1993,1,India,Right-hand bat,Right-arm medium,Player,40
+375,JJ Bumrah,12/6/1993,5,India,Right-hand bat,Right-arm medium,Player,57
+400,HH Pandya,10/11/1993,5,India,Right-hand bat,Right-arm medium-fast,Player,57
+403,MJ McClenaghan,6/11/1986,5,New Zealand,Left-hand bat,Left-arm fast-medium,Player,57
+407,JC Buttler,9/8/1990,5,England,Right-hand bat,NULL,Player,57
+413,KH Pandya,3/24/1991,5,India,Left-hand bat,Slow left-arm orthodox,Player,57
+431,N Rana,12/27/1993,5,India,Left-hand bat,Right-arm offbreak,Player,57
+458,TA Boult,7/22/1989,1,New Zealand,Right-hand bat,Left-arm fast-medium,Player,40
+462,Kuldeep Yadav,12/14/1994,1,India,Left-hand bat,Slow left-arm chinaman,Player,40
+479,CR Woakes,3/2/1989,1,England,ÿRight-hand bat,Right-arm fast-medium,Player,40
+32,SR Watson,6/17/1981,2,Australia,Right-hand bat,Right-arm fast-medium,Captain,8
+62,WP Saha,10/24/1984,3,India,Right-hand bat,NULL,Keeper,305
+110,AB de Villiers,2/17/1984,2,South Africa,Right-hand bat,Right-arm medium,Player,8
+140,Iqbal Abdulla,12/2/1989,2,India,Left-hand bat,Slow left-arm orthodox,Player,8
+236,Mandeep Singh,12/18/1991,2,India,Right-hand bat,Right-arm medium,Player,8
+237,KM Jadhav,3/26/1985,2,India,Right-hand bat,Right-arm offbreak,Player,8
+255,STR Binny,6/3/1984,2,India,Right-hand bat,Right-arm medium,Player,8
+296,VR Aaron,10/29/1989,3,India,Right-hand bat,Right-arm fast,Player,305
+305,GJ Maxwell,10/14/1988,3,Australia,Right-hand bat,Right-arm offbreak,Captain,305
+320,DA Miller,6/10/1989,3,South Africa,Left-hand bat,Right-arm offbreak,Player,305
+322,P Negi,1/6/1993,2,India,Left-hand bat,Slow left-arm orthodox,Player,8
+345,M Vohra,7/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+364,MM Sharma,9/18/1988,3,India,Right-hand bat,Right-arm medium,Player,305
+367,Sandeep Sharma,5/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+374,AR Patel,1/20/1994,3,India,Left-hand bat,Slow left-arm orthodox,Player,305
+382,YS Chahal,7/23/1990,2,India,Right-hand bat,Legbreak googly,Player,8
+409,MP Stoinis,8/16/1989,3,Australia,Right-hand bat,Right-arm medium,Player,305
+427,HM Amla,3/31/1983,3,South Africa,Right-hand bat,Right-arm offbreak,Player,305
+475,B Stanlake,11/4/1994,2,Australia,Left-hand bat,Right-arm fast,Player,8
+493,T Natarajan,5/27/1991,3,India,Left-hand bat,Left-arm medium,Player,305
+495,TS Mills,8/12/1992,2,England,Right-hand bat,ÿLeft-arm fast,Player,8
+496,Vishnu Vinod,12/2/1993,2,India,Right-hand bat,NULL,Keeper,8
+15,Z Khan,10/7/1978,4,India,Right-hand bat,Left-arm fast-medium,Captain,15
+20,MS Dhoni,7/7/1981,7,India,Right-hand bat,Right-arm medium,Keeper,306
+85,AM Rahane,6/6/1988,7,India,Right-hand bat,Right-arm medium,Captain,306
+89,R Bhatia,10/22/1979,7,India,Right-hand bat,Right-arm medium-fast,Player,306
+106,AB Dinda,3/25/1984,7,India,Right-hand bat,Right-arm medium-fast,Player,306
+136,A Mishra,11/24/1982,4,India,Right-hand bat,Legbreak,Player,15
+207,AP Tare,11/7/1987,4,India,Right-hand bat,NULL,Player,15
+260,MA Agarwal,2/16/1991,7,India,Right-hand bat,NULL,Player,306
+293,S Nadeem,8/12/1989,4,India,Right-hand bat,Slow left-arm orthodox,Player,15
+303,F du Plessis,7/13/1984,7,South Africa,Right-hand bat,Legbreak,Player,306
+339,KK Nair,12/6/1991,4,India,Right-hand bat,Right-arm offbreak,Player,15
+350,CH Morris,4/30/1987,4,South Africa,Right-hand bat,Right-arm fast-medium,Player,15
+351,SV Samson,11/11/1994,4,India,Right-hand bat,NULL,Player,15
+372,CJ Anderson,12/13/1990,4,New Zealand,Left-hand bat,Left-arm medium-fast,Player,15
+386,Imran Tahir,3/27/1979,7,India,Right-hand bat,Legbreak googly,Player,306
+405,PJ Cummins,5/8/1993,4,Australia,Right-hand bat,Right-arm fast,Player,15
+420,RR Pant,10/4/1997,4,India,Left-hand bat,NULL,Keeper,15
+421,SW Billings,6/15/1991,4,England,Right-hand bat,NULL,Player,15
+430,A Zampa,3/31/1992,7,Australia,Right-hand bat,Legbreak googly,Player,306
+465,DL Chahar,8/7/1992,7,India,Right-hand bat,Right-arm medium,Player,306
+476,BA Stokes,6/4/1991,7,England,Left-hand bat,Right-arm fast-medium,Player,306
+488,RA Tripathi,3/2/1991,7,India,ÿRight-hand bat,Right-arm medium,Player,306
+17,PA Patel,3/9/1985,5,India,Left-hand bat,NULL,Keeper,57
+27,Yuvraj Singh,12/12/1981,6,India,Left-hand bat,Slow left-arm orthodox,Player,187
+42,S Dhawan,12/5/1985,6,India,Left-hand bat,Right-arm offbreak,Player,187
+50,Harbhajan Singh,7/3/1980,5,India,Right-hand bat,Right-arm offbreak,Player,57
+57,RG Sharma,4/30/1987,5,India,Right-hand bat,Right-arm offbreak,Captain,57
+73,A Nehra,4/29/1979,6,India,Right-hand bat,Left-arm medium-fast,Player,187
+183,NV Ojha,7/20/1983,6,India,Right-hand bat,NULL,Keeper,187
+187,DA Warner,10/27/1986,6,Australia,Left-hand bat,Legbreak,Captain,187
+194,SL Malinga,8/28/1983,5,Sri Lanka,Right-hand bat,Right-arm fast,Player,57
+221,KA Pollard,5/12/1987,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+299,B Kumar,2/5/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+375,JJ Bumrah,12/6/1993,5,India,Right-hand bat,Right-arm medium,Player,57
+385,BCJ Cutting,1/30/1987,6,Australia,Right-hand bat,Right-arm fast-medium,Player,187
+394,DJ Hooda,4/19/1995,6,India,Right-hand bat,Right-arm offbreak,Player,187
+400,HH Pandya,10/11/1993,5,India,Right-hand bat,Right-arm medium-fast,Player,57
+403,MJ McClenaghan,6/11/1986,5,New Zealand,Left-hand bat,Left-arm fast-medium,Player,57
+407,JC Buttler,9/8/1990,5,England,Right-hand bat,NULL,Player,57
+413,KH Pandya,3/24/1991,5,India,Left-hand bat,Slow left-arm orthodox,Player,57
+431,N Rana,12/27/1993,5,India,Left-hand bat,Right-arm offbreak,Player,57
+455,V Shankar,1/26/1991,6,India,Right-hand bat,Right-arm medium,Player,187
+460,Mustafizur Rahman,9/6/1995,6,Bangladesh,Left-hand bat,Left-arm fast-medium,Player,187
+489,Rashid Khan,11/20/1998,6,Afghanistan,Right-hand bat,Legbreak googly,Player,187
+31,YK Pathan,11/17/1982,1,India,Right-hand bat,Right-arm offbreak,Player,40
+40,G Gambhir,10/14/1981,1,India,Left-hand bat,Legbreak,Captain,40
+46,RV Uthappa,11/11/1985,1,India,Right-hand bat,Right-arm medium,Keeper,40
+62,WP Saha,10/24/1984,3,India,Right-hand bat,NULL,Keeper,305
+67,PP Chawla,12/24/1988,1,India,Left-hand bat,Legbreak,Player,40
+84,I Sharma,9/2/1988,3,India,Right-hand bat,Right-arm fast-medium,Player,305
+96,MK Pandey,9/10/1989,1,India,Right-hand bat,Right-arm medium,Player,40
+232,UT Yadav,10/25/1987,1,India,Right-hand bat,Right-arm fast-medium,Player,40
+296,VR Aaron,10/29/1989,3,India,Right-hand bat,Right-arm fast,Player,305
+305,GJ Maxwell,10/14/1988,3,Australia,Right-hand bat,Right-arm offbreak,Captain,305
+308,SA Yadav,9/14/1990,1,India,Right-hand bat,Right-arm offbreak,Player,40
+315,SP Narine,5/26/1988,1,West Indies,Left-hand bat,Right-arm offbreak,Player,40
+320,DA Miller,6/10/1989,3,South Africa,Left-hand bat,Right-arm offbreak,Player,305
+345,M Vohra,7/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+364,MM Sharma,9/18/1988,3,India,Right-hand bat,Right-arm medium,Player,305
+367,Sandeep Sharma,5/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+374,AR Patel,1/20/1994,3,India,Left-hand bat,Slow left-arm orthodox,Player,305
+409,MP Stoinis,8/16/1989,3,Australia,Right-hand bat,Right-arm medium,Player,305
+427,HM Amla,3/31/1983,3,South Africa,Right-hand bat,Right-arm offbreak,Player,305
+458,TA Boult,7/22/1989,1,New Zealand,Right-hand bat,Left-arm fast-medium,Player,40
+478,C de Grandhomme,7/22/1986,1,New Zealand,Right-hand bat,Right-arm fast-medium,Player,40
+479,CR Woakes,3/2/1989,1,England,ÿRight-hand bat,Right-arm fast-medium,Player,40
+8,V Kohli,11/5/1988,2,India,Right-hand bat,Right-arm medium,Captain,8
+17,PA Patel,3/9/1985,5,India,Left-hand bat,NULL,Keeper,57
+50,Harbhajan Singh,7/3/1980,5,India,Right-hand bat,Right-arm offbreak,Player,57
+57,RG Sharma,4/30/1987,5,India,Right-hand bat,Right-arm offbreak,Captain,57
+110,AB de Villiers,2/17/1984,2,South Africa,Right-hand bat,Right-arm medium,Player,8
+162,CH Gayle,9/21/1979,2,West Indies,Left-hand bat,Right-arm offbreak,Player,8
+221,KA Pollard,5/12/1987,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+236,Mandeep Singh,12/18/1991,2,India,Right-hand bat,Right-arm medium,Player,8
+237,KM Jadhav,3/26/1985,2,India,Right-hand bat,Right-arm offbreak,Keeper,8
+255,STR Binny,6/3/1984,2,India,Right-hand bat,Right-arm medium,Player,8
+270,S Aravind,4/8/1984,2,India,Left-hand bat,Left-arm medium-fast,Player,8
+322,P Negi,1/6/1993,2,India,Left-hand bat,Slow left-arm orthodox,Player,8
+375,JJ Bumrah,12/6/1993,5,India,Right-hand bat,Right-arm medium,Player,57
+377,TG Southee,12/11/1988,5,New Zealand,Right-hand bat,Right-arm medium-fast,Player,57
+382,YS Chahal,7/23/1990,2,India,Right-hand bat,Legbreak googly,Player,8
+400,HH Pandya,10/11/1993,5,India,Right-hand bat,Right-arm medium-fast,Player,57
+403,MJ McClenaghan,6/11/1986,5,New Zealand,Left-hand bat,Left-arm fast-medium,Player,57
+407,JC Buttler,9/8/1990,5,England,Right-hand bat,NULL,Player,57
+413,KH Pandya,3/24/1991,5,India,Left-hand bat,Slow left-arm orthodox,Player,57
+431,N Rana,12/27/1993,5,India,Left-hand bat,Right-arm offbreak,Player,57
+452,S Badree,3/9/1981,2,West Indies,Right-hand bat,Legbreak,Player,8
+495,TS Mills,8/12/1992,2,England,Right-hand bat,ÿLeft-arm fast,Player,8
+2,BB McCullum,9/27/1981,8,New Zealand,Right-hand bat,Right-arm medium,Player,21
+14,P Kumar,10/2/1986,8,India,Right-hand bat,Right-arm medium,Player,21
+20,MS Dhoni,7/7/1981,7,India,Right-hand bat,Right-arm medium,Keeper,306
+21,SK Raina,11/27/1986,8,India,Left-hand bat,Right-arm offbreak,Captain,21
+35,RA Jadeja,12/6/1988,8,India,Left-hand bat,Slow left-arm orthodox,Player,21
+85,AM Rahane,6/6/1988,7,India,Right-hand bat,Right-arm medium,Player,306
+87,MK Tiwary,11/14/1985,7,India,Right-hand bat,Legbreak googly,Player,306
+88,KD Karthik,6/1/1985,8,India,Right-hand bat,NULL,Keeper,21
+147,DR Smith,4/12/1983,8,West Indies,Right-hand bat,Right-arm medium,Player,21
+186,SB Jakati,11/27/1980,8,India,Left-hand bat,Slow left-arm orthodox,Player,21
+254,AJ Finch,11/17/1986,8,Australia,Right-hand bat,Slow left-arm orthodox,Player,21
+306,SPD Smith,6/2/1989,7,India,Right-hand bat,Legbreak googly,Captain,306
+314,Ankit Sharma,4/20/1991,7,India,Left-hand bat,Slow left-arm orthodox,Player,306
+386,Imran Tahir,3/27/1979,7,India,Right-hand bat,Legbreak googly,Player,306
+406,SN Thakur,10/16/1991,7,India,Right-hand bat,Right-arm medium,Player,306
+410,Ishan Kishan,7/18/1998,8,India,Left-hand bat,NULL,Player,21
+471,AJ Tye,12/12/1986,8,Australia,Right-handed,Right-arm medium fast,Player,21
+476,BA Stokes,6/4/1991,7,England,Left-hand bat,Right-arm fast-medium,Player,306
+477,Basil Thampi,9/11/1993,8,India,Right-hand bat,ÿRight-arm fast-medium,Player,21
+483,LH Ferguson,6/13/1991,7,New Zealand,Right-hand bat,Right-arm fast,Player,306
+488,RA Tripathi,3/2/1991,7,India,ÿRight-hand bat,Right-arm medium,Player,306
+490,RD Chahar,8/4/1999,7,India,Right-hand bat,Legbreak googly,Player,306
+27,Yuvraj Singh,12/12/1981,6,India,Left-hand bat,Slow left-arm orthodox,Player,187
+31,YK Pathan,11/17/1982,1,India,Right-hand bat,Right-arm offbreak,Player,40
+40,G Gambhir,10/14/1981,1,India,Left-hand bat,Legbreak,Captain,40
+42,S Dhawan,12/5/1985,6,India,Left-hand bat,Right-arm offbreak,Player,187
+46,RV Uthappa,11/11/1985,1,India,Right-hand bat,Right-arm medium,Keeper,40
+73,A Nehra,4/29/1979,6,India,Right-hand bat,Left-arm medium-fast,Player,187
+96,MK Pandey,9/10/1989,1,India,Right-hand bat,Right-arm medium,Player,40
+163,MC Henriques,2/1/1987,6,Australia,Right-hand bat,Right-arm fast-medium,Player,187
+183,NV Ojha,7/20/1983,6,India,Right-hand bat,NULL,Keeper,187
+187,DA Warner,10/27/1986,6,Australia,Left-hand bat,Legbreak,Captain,187
+228,Bipul Sharma,9/28/1983,6,India,Left-hand bat,Slow left-arm orthodox,Player,187
+232,UT Yadav,10/25/1987,1,India,Right-hand bat,Right-arm fast-medium,Player,40
+299,B Kumar,2/5/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+308,SA Yadav,9/14/1990,1,India,Right-hand bat,Right-arm offbreak,Player,40
+315,SP Narine,5/26/1988,1,West Indies,Left-hand bat,Right-arm offbreak,Player,40
+385,BCJ Cutting,1/30/1987,6,Australia,Right-hand bat,Right-arm fast-medium,Player,187
+394,DJ Hooda,4/19/1995,6,India,Right-hand bat,Right-arm offbreak,Player,187
+458,TA Boult,7/22/1989,1,New Zealand,Right-hand bat,Left-arm fast-medium,Player,40
+462,Kuldeep Yadav,12/14/1994,1,India,Left-hand bat,Slow left-arm chinaman,Player,40
+478,C de Grandhomme,7/22/1986,1,New Zealand,Right-hand bat,Right-arm fast-medium,Player,40
+479,CR Woakes,3/2/1989,1,England,ÿRight-hand bat,Right-arm fast-medium,Player,40
+489,Rashid Khan,11/20/1998,6,Afghanistan,Right-hand bat,Legbreak googly,Player,187
+15,Z Khan,10/7/1978,4,India,Right-hand bat,Left-arm fast-medium,Captain,15
+62,WP Saha,10/24/1984,3,India,Right-hand bat,NULL,Keeper,305
+136,A Mishra,11/24/1982,4,India,Right-hand bat,Legbreak,Player,15
+216,EJG Morgan,9/10/1986,3,England,Left-hand bat,Right-arm medium,Player,305
+293,S Nadeem,8/12/1989,4,India,Right-hand bat,Slow left-arm orthodox,Player,15
+296,VR Aaron,10/29/1989,3,India,Right-hand bat,Right-arm fast,Player,305
+305,GJ Maxwell,10/14/1988,3,Australia,Right-hand bat,Right-arm offbreak,Captain,305
+320,DA Miller,6/10/1989,3,South Africa,Left-hand bat,Right-arm offbreak,Player,305
+339,KK Nair,12/6/1991,4,India,Right-hand bat,Right-arm offbreak,Player,15
+345,M Vohra,7/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+350,CH Morris,4/30/1987,4,South Africa,Right-hand bat,Right-arm fast-medium,Player,15
+351,SV Samson,11/11/1994,4,India,Right-hand bat,NULL,Player,15
+364,MM Sharma,9/18/1988,3,India,Right-hand bat,Right-arm medium,Player,305
+367,Sandeep Sharma,5/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+372,CJ Anderson,12/13/1990,4,New Zealand,Left-hand bat,Left-arm medium-fast,Player,15
+374,AR Patel,1/20/1994,3,India,Left-hand bat,Slow left-arm orthodox,Player,305
+393,SS Iyer,12/6/1994,4,India,Right-hand bat,Legbreak googly,Player,15
+405,PJ Cummins,5/8/1993,4,Australia,Right-hand bat,Right-arm fast,Player,15
+420,RR Pant,10/4/1997,4,India,Left-hand bat,NULL,Keeper,15
+421,SW Billings,6/15/1991,4,England,Right-hand bat,NULL,Player,15
+422,KC Cariappa,4/13/1994,3,India,Right-hand bat,Legbreak,Player,305
+427,HM Amla,3/31/1983,3,South Africa,Right-hand bat,Right-arm offbreak,Player,305
+2,BB McCullum,9/27/1981,8,New Zealand,Right-hand bat,Right-arm medium,Player,21
+14,P Kumar,10/2/1986,8,India,Right-hand bat,Right-arm medium,Player,21
+17,PA Patel,3/9/1985,5,India,Left-hand bat,NULL,Keeper,57
+21,SK Raina,11/27/1986,8,India,Left-hand bat,Right-arm offbreak,Captain,21
+35,RA Jadeja,12/6/1988,8,India,Left-hand bat,Slow left-arm orthodox,Player,21
+50,Harbhajan Singh,7/3/1980,5,India,Right-hand bat,Right-arm offbreak,Player,57
+57,RG Sharma,4/30/1987,5,India,Right-hand bat,Right-arm offbreak,Captain,57
+88,KD Karthik,6/1/1985,8,India,Right-hand bat,NULL,Keeper,21
+126,MM Patel,7/12/1983,8,India,Right-hand bat,Right-arm medium-fast,Player,21
+147,DR Smith,4/12/1983,8,West Indies,Right-hand bat,Right-arm medium,Player,21
+194,SL Malinga,8/28/1983,5,Sri Lanka,Right-hand bat,Right-arm fast,Player,57
+221,KA Pollard,5/12/1987,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+375,JJ Bumrah,12/6/1993,5,India,Right-hand bat,Right-arm medium,Player,57
+400,HH Pandya,10/11/1993,5,India,Right-hand bat,Right-arm medium-fast,Player,57
+403,MJ McClenaghan,6/11/1986,5,New Zealand,Left-hand bat,Left-arm fast-medium,Player,57
+407,JC Buttler,9/8/1990,5,England,Right-hand bat,NULL,Player,57
+410,Ishan Kishan,7/18/1998,8,India,Left-hand bat,NULL,Player,21
+413,KH Pandya,3/24/1991,5,India,Left-hand bat,Slow left-arm orthodox,Player,57
+431,N Rana,12/27/1993,5,India,Left-hand bat,Right-arm offbreak,Player,57
+471,AJ Tye,12/12/1986,8,Australia,Right-handed,Right-arm medium fast,Player,21
+477,Basil Thampi,9/11/1993,8,India,Right-hand bat,ÿRight-arm fast-medium,Player,21
+481,JJ Roy,7/21/1990,8,England,ÿRight-hand bat,NULL,Player,21
+8,V Kohli,11/5/1988,2,India,Right-hand bat,Right-arm medium,Captain,8
+20,MS Dhoni,7/7/1981,7,India,Right-hand bat,Right-arm medium,Keeper,306
+32,SR Watson,6/17/1981,2,Australia,Right-hand bat,Right-arm fast-medium,Player,8
+85,AM Rahane,6/6/1988,7,India,Right-hand bat,Right-arm medium,Player,306
+87,MK Tiwary,11/14/1985,7,India,Right-hand bat,Legbreak googly,Player,306
+110,AB de Villiers,2/17/1984,2,South Africa,Right-hand bat,Right-arm medium,Player,8
+236,Mandeep Singh,12/18/1991,2,India,Right-hand bat,Right-arm medium,Player,8
+237,KM Jadhav,3/26/1985,2,India,Right-hand bat,Right-arm offbreak,Keeper,8
+255,STR Binny,6/3/1984,2,India,Right-hand bat,Right-arm medium,Player,8
+258,DT Christian,5/4/1983,7,Australia,Right-hand bat,Right-arm fast-medium,Player,306
+270,S Aravind,4/8/1984,2,India,Left-hand bat,Left-arm medium-fast,Player,8
+306,SPD Smith,6/2/1989,7,India,Right-hand bat,Legbreak googly,Captain,306
+322,P Negi,1/6/1993,2,India,Left-hand bat,Slow left-arm orthodox,Player,8
+346,JD Unadkat,10/18/1991,7,India,Right-hand bat,Left-arm medium,Player,306
+382,YS Chahal,7/23/1990,2,India,Right-hand bat,Legbreak googly,Player,8
+386,Imran Tahir,3/27/1979,7,India,Right-hand bat,Legbreak googly,Player,306
+406,SN Thakur,10/16/1991,7,India,Right-hand bat,Right-arm medium,Player,306
+452,S Badree,3/9/1981,2,West Indies,Right-hand bat,Legbreak,Player,8
+461,AF Milne,4/13/1992,2,New Zealand,Right-hand bat,Right-arm fast,Player,8
+476,BA Stokes,6/4/1991,7,England,Left-hand bat,Right-arm fast-medium,Player,306
+488,RA Tripathi,3/2/1991,7,India,ÿRight-hand bat,Right-arm medium,Player,306
+490,RD Chahar,8/4/1999,7,India,Right-hand bat,Legbreak googly,Player,306
+15,Z Khan,10/7/1978,4,India,Right-hand bat,Left-arm fast-medium,Captain,15
+31,YK Pathan,11/17/1982,1,India,Right-hand bat,Right-arm offbreak,Player,40
+40,G Gambhir,10/14/1981,1,India,Left-hand bat,Legbreak,Captain,40
+46,RV Uthappa,11/11/1985,1,India,Right-hand bat,Right-arm medium,Keeper,40
+96,MK Pandey,9/10/1989,1,India,Right-hand bat,Right-arm medium,Player,40
+136,A Mishra,11/24/1982,4,India,Right-hand bat,Legbreak,Player,15
+191,AD Mathews,6/2/1987,4,Sri Lanka,Right-hand bat,Right-arm fast-medium,Player,15
+232,UT Yadav,10/25/1987,1,India,Right-hand bat,Right-arm fast-medium,Player,40
+308,SA Yadav,9/14/1990,1,India,Right-hand bat,Right-arm offbreak,Player,40
+315,SP Narine,5/26/1988,1,West Indies,Left-hand bat,Right-arm offbreak,Player,40
+339,KK Nair,12/6/1991,4,India,Right-hand bat,Right-arm offbreak,Player,15
+347,Mohammed Shami,9/3/1990,4,India,Right-hand bat,Right-arm fast-medium,Player,15
+350,CH Morris,4/30/1987,4,South Africa,Right-hand bat,Right-arm fast-medium,Player,15
+351,SV Samson,11/11/1994,4,India,Right-hand bat,NULL,Player,15
+371,NM Coulter-Nile,10/11/1987,1,Australia,Right-hand bat,Right-arm fast,Player,40
+393,SS Iyer,12/6/1994,4,India,Right-hand bat,Legbreak googly,Player,15
+405,PJ Cummins,5/8/1993,4,Australia,Right-hand bat,Right-arm fast,Player,15
+420,RR Pant,10/4/1997,4,India,Left-hand bat,NULL,Keeper,15
+421,SW Billings,6/15/1991,4,England,Right-hand bat,NULL,Player,15
+462,Kuldeep Yadav,12/14/1994,1,India,Left-hand bat,Slow left-arm chinaman,Player,40
+478,C de Grandhomme,7/22/1986,1,New Zealand,Right-hand bat,Right-arm fast-medium,Player,40
+479,CR Woakes,3/2/1989,1,England,ÿRight-hand bat,Right-arm fast-medium,Player,40
+27,Yuvraj Singh,12/12/1981,6,India,Left-hand bat,Slow left-arm orthodox,Player,187
+42,S Dhawan,12/5/1985,6,India,Left-hand bat,Right-arm offbreak,Player,187
+62,WP Saha,10/24/1984,3,India,Right-hand bat,NULL,Keeper,305
+84,I Sharma,9/2/1988,3,India,Right-hand bat,Right-arm fast-medium,Player,305
+163,MC Henriques,2/1/1987,6,Australia,Right-hand bat,Right-arm fast-medium,Player,187
+183,NV Ojha,7/20/1983,6,India,Right-hand bat,NULL,Keeper,187
+187,DA Warner,10/27/1986,6,Australia,Left-hand bat,Legbreak,Captain,187
+216,EJG Morgan,9/10/1986,3,England,Left-hand bat,Right-arm medium,Player,305
+299,B Kumar,2/5/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+305,GJ Maxwell,10/14/1988,3,Australia,Right-hand bat,Right-arm offbreak,Captain,305
+320,DA Miller,6/10/1989,3,South Africa,Left-hand bat,Right-arm offbreak,Player,305
+345,M Vohra,7/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+364,MM Sharma,9/18/1988,3,India,Right-hand bat,Right-arm medium,Player,305
+367,Sandeep Sharma,5/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+368,S Kaul,5/19/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+374,AR Patel,1/20/1994,3,India,Left-hand bat,Slow left-arm orthodox,Player,305
+394,DJ Hooda,4/19/1995,6,India,Right-hand bat,Right-arm offbreak,Player,187
+422,KC Cariappa,4/13/1994,3,India,Right-hand bat,Legbreak,Player,305
+427,HM Amla,3/31/1983,3,South Africa,Right-hand bat,Right-arm offbreak,Player,305
+429,BB Sran,12/10/1992,6,India,Left-hand bat,Left-arm medium,Player,187
+485,Mohammad Nabi,1/1/1985,6,Afghanistan,ÿRight-hand bat,Right-arm offbreak,Player,187
+489,Rashid Khan,11/20/1998,6,Afghanistan,Right-hand bat,Legbreak googly,Player,187
+2,BB McCullum,9/27/1981,8,New Zealand,Right-hand bat,Right-arm medium,Player,21
+8,V Kohli,11/5/1988,2,India,Right-hand bat,Right-arm medium,Captain,8
+21,SK Raina,11/27/1986,8,India,Left-hand bat,Right-arm offbreak,Captain,21
+32,SR Watson,6/17/1981,2,Australia,Right-hand bat,Right-arm fast-medium,Player,8
+35,RA Jadeja,12/6/1988,8,India,Left-hand bat,Slow left-arm orthodox,Player,21
+80,DS Kulkarni,12/10/1988,8,India,Right-hand bat,Right-arm medium,Player,21
+88,KD Karthik,6/1/1985,8,India,Right-hand bat,NULL,Keeper,21
+147,DR Smith,4/12/1983,8,West Indies,Right-hand bat,Right-arm medium,Player,21
+162,CH Gayle,9/21/1979,2,West Indies,Left-hand bat,Right-arm offbreak,Player,8
+236,Mandeep Singh,12/18/1991,2,India,Right-hand bat,Right-arm medium,Player,8
+237,KM Jadhav,3/26/1985,2,India,Right-hand bat,Right-arm offbreak,Keeper,8
+254,AJ Finch,11/17/1986,8,Australia,Right-hand bat,Slow left-arm orthodox,Player,21
+255,STR Binny,6/3/1984,2,India,Right-hand bat,Right-arm medium,Player,8
+270,S Aravind,4/8/1984,2,India,Left-hand bat,Left-arm medium-fast,Player,8
+322,P Negi,1/6/1993,2,India,Left-hand bat,Slow left-arm orthodox,Player,8
+382,YS Chahal,7/23/1990,2,India,Right-hand bat,Legbreak googly,Player,8
+410,Ishan Kishan,7/18/1998,8,India,Left-hand bat,NULL,Player,21
+417,TM Head,12/29/1993,2,Australia,Left-hand bat,Right-arm offbreak,Player,8
+432,S Kaushik,9/7/1995,8,India,Right-hand bat,Slow left-arm chinaman,Player,21
+461,AF Milne,4/13/1992,2,New Zealand,Right-hand bat,Right-arm fast,Player,8
+471,AJ Tye,12/12/1986,8,Australia,Right-handed,Right-arm medium fast,Player,21
+477,Basil Thampi,9/11/1993,8,India,Right-hand bat,ÿRight-arm fast-medium,Player,21
+15,Z Khan,10/7/1978,4,India,Right-hand bat,Left-arm fast-medium,Captain,15
+27,Yuvraj Singh,12/12/1981,6,India,Left-hand bat,Slow left-arm orthodox,Player,187
+42,S Dhawan,12/5/1985,6,India,Left-hand bat,Right-arm offbreak,Player,187
+136,A Mishra,11/24/1982,4,India,Right-hand bat,Legbreak,Player,15
+163,MC Henriques,2/1/1987,6,Australia,Right-hand bat,Right-arm fast-medium,Player,187
+183,NV Ojha,7/20/1983,6,India,Right-hand bat,NULL,Keeper,187
+187,DA Warner,10/27/1986,6,Australia,Left-hand bat,Legbreak,Captain,187
+191,AD Mathews,6/2/1987,4,Sri Lanka,Right-hand bat,Right-arm fast-medium,Player,15
+299,B Kumar,2/5/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+339,KK Nair,12/6/1991,4,India,Right-hand bat,Right-arm offbreak,Player,15
+350,CH Morris,4/30/1987,4,South Africa,Right-hand bat,Right-arm fast-medium,Player,15
+351,SV Samson,11/11/1994,4,India,Right-hand bat,NULL,Player,15
+368,S Kaul,5/19/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+393,SS Iyer,12/6/1994,4,India,Right-hand bat,Legbreak googly,Player,15
+394,DJ Hooda,4/19/1995,6,India,Right-hand bat,Right-arm offbreak,Player,187
+396,KS Williamson,8/8/1990,6,New Zealand,Right-hand bat,Right-arm offbreak,Player,187
+405,PJ Cummins,5/8/1993,4,Australia,Right-hand bat,Right-arm fast,Player,15
+420,RR Pant,10/4/1997,4,India,Left-hand bat,NULL,Keeper,15
+421,SW Billings,6/15/1991,4,England,Right-hand bat,NULL,Player,15
+425,J Yadav,1/22/1990,4,India,Right-hand bat,Right-arm offbreak,Player,15
+486,Mohammed Siraj,3/13/1994,6,India,Right-hand bat,ÿRight-arm medium-fast,Player,187
+489,Rashid Khan,11/20/1998,6,Afghanistan,Right-hand bat,Legbreak googly,Player,187
+17,PA Patel,3/9/1985,5,India,Left-hand bat,NULL,Keeper,57
+50,Harbhajan Singh,7/3/1980,5,India,Right-hand bat,Right-arm offbreak,Player,57
+57,RG Sharma,4/30/1987,5,India,Right-hand bat,Right-arm offbreak,Captain,57
+62,WP Saha,10/24/1984,3,India,Right-hand bat,NULL,Keeper,305
+84,I Sharma,9/2/1988,3,India,Right-hand bat,Right-arm fast-medium,Player,305
+100,SE Marsh,7/9/1983,3,Australia,Left-hand bat,Slow left-arm orthodox,Player,305
+194,SL Malinga,8/28/1983,5,Sri Lanka,Right-hand bat,Right-arm fast,Player,57
+221,KA Pollard,5/12/1987,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+305,GJ Maxwell,10/14/1988,3,Australia,Right-hand bat,Right-arm offbreak,Captain,305
+329,Gurkeerat Singh,6/29/1990,3,India,Right-hand bat,Right-arm offbreak,Player,305
+364,MM Sharma,9/18/1988,3,India,Right-hand bat,Right-arm medium,Player,305
+367,Sandeep Sharma,5/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+374,AR Patel,1/20/1994,3,India,Left-hand bat,Slow left-arm orthodox,Player,305
+375,JJ Bumrah,12/6/1993,5,India,Right-hand bat,Right-arm medium,Player,57
+400,HH Pandya,10/11/1993,5,India,Right-hand bat,Right-arm medium-fast,Player,57
+403,MJ McClenaghan,6/11/1986,5,New Zealand,Left-hand bat,Left-arm fast-medium,Player,57
+407,JC Buttler,9/8/1990,5,England,Right-hand bat,NULL,Player,57
+409,MP Stoinis,8/16/1989,3,Australia,Right-hand bat,Right-arm medium,Player,305
+413,KH Pandya,3/24/1991,5,India,Left-hand bat,Slow left-arm orthodox,Player,57
+424,Swapnil Singh,1/22/1991,3,India,Right-hand bat,Slow left-arm orthodox,Player,305
+427,HM Amla,3/31/1983,3,South Africa,Right-hand bat,Right-arm offbreak,Player,305
+431,N Rana,12/27/1993,5,India,Left-hand bat,Right-arm offbreak,Player,57
+2,BB McCullum,9/27/1981,8,New Zealand,Right-hand bat,Right-arm medium,Player,21
+14,P Kumar,10/2/1986,8,India,Right-hand bat,Right-arm medium,Player,21
+21,SK Raina,11/27/1986,8,India,Left-hand bat,Right-arm offbreak,Captain,21
+31,YK Pathan,11/17/1982,1,India,Right-hand bat,Right-arm offbreak,Player,40
+35,RA Jadeja,12/6/1988,8,India,Left-hand bat,Slow left-arm orthodox,Player,21
+40,G Gambhir,10/14/1981,1,India,Left-hand bat,Legbreak,Captain,40
+46,RV Uthappa,11/11/1985,1,India,Right-hand bat,Right-arm medium,Keeper,40
+80,DS Kulkarni,12/10/1988,8,India,Right-hand bat,Right-arm medium,Player,21
+88,KD Karthik,6/1/1985,8,India,Right-hand bat,NULL,Keeper,21
+96,MK Pandey,9/10/1989,1,India,Right-hand bat,Right-arm medium,Player,40
+147,DR Smith,4/12/1983,8,West Indies,Right-hand bat,Right-arm medium,Player,21
+232,UT Yadav,10/25/1987,1,India,Right-hand bat,Right-arm fast-medium,Player,40
+254,AJ Finch,11/17/1986,8,Australia,Right-hand bat,Slow left-arm orthodox,Player,21
+276,Shakib Al Hasan,3/24/1987,1,Bangladesh,Left-hand bat,Slow left-arm orthodox,Player,40
+308,SA Yadav,9/14/1990,1,India,Right-hand bat,Right-arm offbreak,Player,40
+310,JP Faulkner,4/29/1990,8,Australia,Right-hand bat,Left-arm fast-medium,Player,21
+315,SP Narine,5/26/1988,1,West Indies,Left-hand bat,Right-arm offbreak,Player,40
+371,NM Coulter-Nile,10/11/1987,1,Australia,Right-hand bat,Right-arm fast,Player,40
+410,Ishan Kishan,7/18/1998,8,India,Left-hand bat,NULL,Player,21
+462,Kuldeep Yadav,12/14/1994,1,India,Left-hand bat,Slow left-arm chinaman,Player,40
+477,Basil Thampi,9/11/1993,8,India,Right-hand bat,ÿRight-arm fast-medium,Player,21
+479,CR Woakes,3/2/1989,1,England,ÿRight-hand bat,Right-arm fast-medium,Player,40
+15,Z Khan,10/7/1978,4,India,Right-hand bat,Left-arm fast-medium,Captain,15
+17,PA Patel,3/9/1985,5,India,Left-hand bat,NULL,Keeper,57
+50,Harbhajan Singh,7/3/1980,5,India,Right-hand bat,Right-arm offbreak,Player,57
+57,RG Sharma,4/30/1987,5,India,Right-hand bat,Right-arm offbreak,Captain,57
+136,A Mishra,11/24/1982,4,India,Right-hand bat,Legbreak,Player,15
+207,AP Tare,11/7/1987,4,India,Right-hand bat,NULL,Player,15
+221,KA Pollard,5/12/1987,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+339,KK Nair,12/6/1991,4,India,Right-hand bat,Right-arm offbreak,Player,15
+350,CH Morris,4/30/1987,4,South Africa,Right-hand bat,Right-arm fast-medium,Player,15
+351,SV Samson,11/11/1994,4,India,Right-hand bat,NULL,Player,15
+357,MG Johnson,11/2/1981,5,Australia,Left-hand bat,Left-arm fast,Player,57
+372,CJ Anderson,12/13/1990,4,New Zealand,Left-hand bat,Left-arm medium-fast,Player,15
+375,JJ Bumrah,12/6/1993,5,India,Right-hand bat,Right-arm medium,Player,57
+393,SS Iyer,12/6/1994,4,India,Right-hand bat,Legbreak googly,Player,15
+400,HH Pandya,10/11/1993,5,India,Right-hand bat,Right-arm medium-fast,Player,57
+403,MJ McClenaghan,6/11/1986,5,New Zealand,Left-hand bat,Left-arm fast-medium,Player,57
+405,PJ Cummins,5/8/1993,4,Australia,Right-hand bat,Right-arm fast,Player,15
+407,JC Buttler,9/8/1990,5,England,Right-hand bat,NULL,Player,57
+413,KH Pandya,3/24/1991,5,India,Left-hand bat,Slow left-arm orthodox,Player,57
+420,RR Pant,10/4/1997,4,India,Left-hand bat,NULL,Keeper,15
+431,N Rana,12/27/1993,5,India,Left-hand bat,Right-arm offbreak,Player,57
+482,K Rabada,5/25/1995,4,South Africa,ÿLeft-hand bat,Right-arm fast,Player,15
+20,MS Dhoni,7/7/1981,7,India,Right-hand bat,Right-arm medium,Keeper,306
+42,S Dhawan,12/5/1985,6,India,Left-hand bat,Right-arm offbreak,Player,187
+85,AM Rahane,6/6/1988,7,India,Right-hand bat,Right-arm medium,Player,306
+87,MK Tiwary,11/14/1985,7,India,Right-hand bat,Legbreak googly,Player,306
+163,MC Henriques,2/1/1987,6,Australia,Right-hand bat,Right-arm fast-medium,Player,187
+183,NV Ojha,7/20/1983,6,India,Right-hand bat,NULL,Keeper,187
+187,DA Warner,10/27/1986,6,Australia,Left-hand bat,Legbreak,Captain,187
+228,Bipul Sharma,9/28/1983,6,India,Left-hand bat,Slow left-arm orthodox,Player,187
+258,DT Christian,5/4/1983,7,Australia,Right-hand bat,Right-arm fast-medium,Player,306
+299,B Kumar,2/5/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+306,SPD Smith,6/2/1989,7,India,Right-hand bat,Legbreak googly,Captain,306
+346,JD Unadkat,10/18/1991,7,India,Right-hand bat,Left-arm medium,Player,306
+368,S Kaul,5/19/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+386,Imran Tahir,3/27/1979,7,India,Right-hand bat,Legbreak googly,Player,306
+394,DJ Hooda,4/19/1995,6,India,Right-hand bat,Right-arm offbreak,Player,187
+396,KS Williamson,8/8/1990,6,New Zealand,Right-hand bat,Right-arm offbreak,Player,187
+406,SN Thakur,10/16/1991,7,India,Right-hand bat,Right-arm medium,Player,306
+476,BA Stokes,6/4/1991,7,England,Left-hand bat,Right-arm fast-medium,Player,306
+486,Mohammed Siraj,3/13/1994,6,India,Right-hand bat,ÿRight-arm medium-fast,Player,187
+488,RA Tripathi,3/2/1991,7,India,ÿRight-hand bat,Right-arm medium,Player,306
+489,Rashid Khan,11/20/1998,6,Afghanistan,Right-hand bat,Legbreak googly,Player,187
+497,Washington Sundar,10/5/1999,7,India,ÿLeft-hand bat,ÿRight-arm offbreak,Player,306
+2,BB McCullum,9/27/1981,8,New Zealand,Right-hand bat,Right-arm medium,Player,21
+21,SK Raina,11/27/1986,8,India,Left-hand bat,Right-arm offbreak,Captain,21
+35,RA Jadeja,12/6/1988,8,India,Left-hand bat,Slow left-arm orthodox,Player,21
+62,WP Saha,10/24/1984,3,India,Right-hand bat,NULL,Keeper,305
+88,KD Karthik,6/1/1985,8,India,Right-hand bat,NULL,Keeper,21
+100,SE Marsh,7/9/1983,3,Australia,Left-hand bat,Slow left-arm orthodox,Player,305
+147,DR Smith,4/12/1983,8,West Indies,Right-hand bat,Right-arm medium,Player,21
+254,AJ Finch,11/17/1986,8,Australia,Right-hand bat,Slow left-arm orthodox,Player,21
+305,GJ Maxwell,10/14/1988,3,Australia,Right-hand bat,Right-arm offbreak,Captain,305
+345,M Vohra,7/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+364,MM Sharma,9/18/1988,3,India,Right-hand bat,Right-arm medium,Player,305
+367,Sandeep Sharma,5/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+374,AR Patel,1/20/1994,3,India,Left-hand bat,Slow left-arm orthodox,Player,305
+409,MP Stoinis,8/16/1989,3,Australia,Right-hand bat,Right-arm medium,Player,305
+414,AD Nath,5/10/1993,8,India,Right-hand bat,Right-arm medium-fast,Player,21
+422,KC Cariappa,4/13/1994,3,India,Right-hand bat,Legbreak,Player,305
+427,HM Amla,3/31/1983,3,South Africa,Right-hand bat,Right-arm offbreak,Player,305
+471,AJ Tye,12/12/1986,8,Australia,Right-handed,Right-arm medium fast,Player,21
+477,Basil Thampi,9/11/1993,8,India,Right-hand bat,ÿRight-arm fast-medium,Player,21
+487,NB Singh,9/8/1995,8,India,Right-hand bat,Right-arm medium,Player,21
+492,SS Agarwal,11/21/1993,8,India,Right-hand bat,Legbreak googly,Player,21
+493,T Natarajan,5/27/1991,3,India,Left-hand bat,Left-arm medium,Player,305
+8,V Kohli,11/5/1988,2,India,Right-hand bat,Right-arm medium,Captain,8
+31,YK Pathan,11/17/1982,1,India,Right-hand bat,Right-arm offbreak,Player,40
+40,G Gambhir,10/14/1981,1,India,Left-hand bat,Legbreak,Captain,40
+46,RV Uthappa,11/11/1985,1,India,Right-hand bat,Right-arm medium,Keeper,40
+96,MK Pandey,9/10/1989,1,India,Right-hand bat,Right-arm medium,Player,40
+110,AB de Villiers,2/17/1984,2,South Africa,Right-hand bat,Right-arm medium,Player,8
+162,CH Gayle,9/21/1979,2,West Indies,Left-hand bat,Right-arm offbreak,Player,8
+232,UT Yadav,10/25/1987,1,India,Right-hand bat,Right-arm fast-medium,Player,40
+236,Mandeep Singh,12/18/1991,2,India,Right-hand bat,Right-arm medium,Player,8
+237,KM Jadhav,3/26/1985,2,India,Right-hand bat,Right-arm offbreak,Keeper,8
+255,STR Binny,6/3/1984,2,India,Right-hand bat,Right-arm medium,Player,8
+270,S Aravind,4/8/1984,2,India,Left-hand bat,Left-arm medium-fast,Player,8
+308,SA Yadav,9/14/1990,1,India,Right-hand bat,Right-arm offbreak,Player,40
+315,SP Narine,5/26/1988,1,West Indies,Left-hand bat,Right-arm offbreak,Player,40
+322,P Negi,1/6/1993,2,India,Left-hand bat,Slow left-arm orthodox,Player,8
+371,NM Coulter-Nile,10/11/1987,1,Australia,Right-hand bat,Right-arm fast,Player,40
+382,YS Chahal,7/23/1990,2,India,Right-hand bat,Legbreak googly,Player,8
+452,S Badree,3/9/1981,2,West Indies,Right-hand bat,Legbreak,Player,8
+462,Kuldeep Yadav,12/14/1994,1,India,Left-hand bat,Slow left-arm chinaman,Player,40
+478,C de Grandhomme,7/22/1986,1,New Zealand,Right-hand bat,Right-arm fast-medium,Player,40
+479,CR Woakes,3/2/1989,1,England,ÿRight-hand bat,Right-arm fast-medium,Player,40
+495,TS Mills,8/12/1992,2,England,Right-hand bat,ÿLeft-arm fast,Player,8
+17,PA Patel,3/9/1985,5,India,Left-hand bat,NULL,Keeper,57
+20,MS Dhoni,7/7/1981,7,India,Right-hand bat,Right-arm medium,Keeper,306
+50,Harbhajan Singh,7/3/1980,5,India,Right-hand bat,Right-arm offbreak,Player,57
+57,RG Sharma,4/30/1987,5,India,Right-hand bat,Right-arm offbreak,Captain,57
+85,AM Rahane,6/6/1988,7,India,Right-hand bat,Right-arm medium,Player,306
+87,MK Tiwary,11/14/1985,7,India,Right-hand bat,Legbreak googly,Player,306
+166,KV Sharma,10/23/1987,5,India,Left-hand bat,Legbreak googly,Player,57
+221,KA Pollard,5/12/1987,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+258,DT Christian,5/4/1983,7,Australia,Right-hand bat,Right-arm fast-medium,Player,306
+306,SPD Smith,6/2/1989,7,India,Right-hand bat,Legbreak googly,Captain,306
+346,JD Unadkat,10/18/1991,7,India,Right-hand bat,Left-arm medium,Player,306
+357,MG Johnson,11/2/1981,5,Australia,Left-hand bat,Left-arm fast,Player,57
+375,JJ Bumrah,12/6/1993,5,India,Right-hand bat,Right-arm medium,Player,57
+386,Imran Tahir,3/27/1979,7,India,Right-hand bat,Legbreak googly,Player,306
+400,HH Pandya,10/11/1993,5,India,Right-hand bat,Right-arm medium-fast,Player,57
+403,MJ McClenaghan,6/11/1986,5,New Zealand,Left-hand bat,Left-arm fast-medium,Player,57
+406,SN Thakur,10/16/1991,7,India,Right-hand bat,Right-arm medium,Player,306
+407,JC Buttler,9/8/1990,5,England,Right-hand bat,NULL,Player,57
+431,N Rana,12/27/1993,5,India,Left-hand bat,Right-arm offbreak,Player,57
+476,BA Stokes,6/4/1991,7,England,Left-hand bat,Right-arm fast-medium,Player,306
+488,RA Tripathi,3/2/1991,7,India,ÿRight-hand bat,Right-arm medium,Player,306
+497,Washington Sundar,10/5/1999,7,India,ÿLeft-hand bat,ÿRight-arm offbreak,Player,306
+20,MS Dhoni,7/7/1981,7,India,Right-hand bat,Right-arm medium,Keeper,306
+31,YK Pathan,11/17/1982,1,India,Right-hand bat,Right-arm offbreak,Player,40
+40,G Gambhir,10/14/1981,1,India,Left-hand bat,Legbreak,Captain,40
+46,RV Uthappa,11/11/1985,1,India,Right-hand bat,Right-arm medium,Keeper,40
+67,PP Chawla,12/24/1988,1,India,Left-hand bat,Legbreak,Player,40
+85,AM Rahane,6/6/1988,7,India,Right-hand bat,Right-arm medium,Player,306
+87,MK Tiwary,11/14/1985,7,India,Right-hand bat,Legbreak googly,Player,306
+96,MK Pandey,9/10/1989,1,India,Right-hand bat,Right-arm medium,Player,40
+232,UT Yadav,10/25/1987,1,India,Right-hand bat,Right-arm fast-medium,Player,40
+258,DT Christian,5/4/1983,7,Australia,Right-hand bat,Right-arm fast-medium,Player,306
+303,F du Plessis,7/13/1984,7,South Africa,Right-hand bat,Legbreak,Player,306
+306,SPD Smith,6/2/1989,7,India,Right-hand bat,Legbreak googly,Captain,306
+315,SP Narine,5/26/1988,1,West Indies,Left-hand bat,Right-arm offbreak,Player,40
+346,JD Unadkat,10/18/1991,7,India,Right-hand bat,Left-arm medium,Player,306
+386,Imran Tahir,3/27/1979,7,India,Right-hand bat,Legbreak googly,Player,306
+406,SN Thakur,10/16/1991,7,India,Right-hand bat,Right-arm medium,Player,306
+462,Kuldeep Yadav,12/14/1994,1,India,Left-hand bat,Slow left-arm chinaman,Player,40
+478,C de Grandhomme,7/22/1986,1,New Zealand,Right-hand bat,Right-arm fast-medium,Player,40
+479,CR Woakes,3/2/1989,1,England,ÿRight-hand bat,Right-arm fast-medium,Player,40
+480,DM Bravo,2/6/1989,1,West Indies,ÿLeft-hand bat,Right-arm medium-fast,Player,40
+488,RA Tripathi,3/2/1991,7,India,ÿRight-hand bat,Right-arm medium,Player,306
+497,Washington Sundar,10/5/1999,7,India,ÿLeft-hand bat,ÿRight-arm offbreak,Player,306
+2,BB McCullum,9/27/1981,8,New Zealand,Right-hand bat,Right-arm medium,Player,21
+8,V Kohli,11/5/1988,2,India,Right-hand bat,Right-arm medium,Captain,8
+21,SK Raina,11/27/1986,8,India,Left-hand bat,Right-arm offbreak,Captain,21
+35,RA Jadeja,12/6/1988,8,India,Left-hand bat,Slow left-arm orthodox,Player,21
+88,KD Karthik,6/1/1985,8,India,Right-hand bat,NULL,Keeper,21
+110,AB de Villiers,2/17/1984,2,South Africa,Right-hand bat,Right-arm medium,Player,8
+162,CH Gayle,9/21/1979,2,West Indies,Left-hand bat,Right-arm offbreak,Player,8
+236,Mandeep Singh,12/18/1991,2,India,Right-hand bat,Right-arm medium,Player,8
+237,KM Jadhav,3/26/1985,2,India,Right-hand bat,Right-arm offbreak,Keeper,8
+254,AJ Finch,11/17/1986,8,Australia,Right-hand bat,Slow left-arm orthodox,Player,21
+270,S Aravind,4/8/1984,2,India,Left-hand bat,Left-arm medium-fast,Player,8
+310,JP Faulkner,4/29/1990,8,Australia,Right-hand bat,Left-arm fast-medium,Player,21
+322,P Negi,1/6/1993,2,India,Left-hand bat,Slow left-arm orthodox,Player,8
+382,YS Chahal,7/23/1990,2,India,Right-hand bat,Legbreak googly,Player,8
+410,Ishan Kishan,7/18/1998,8,India,Left-hand bat,NULL,Player,21
+417,TM Head,12/29/1993,2,Australia,Left-hand bat,Right-arm offbreak,Player,8
+452,S Badree,3/9/1981,2,West Indies,Right-hand bat,Legbreak,Player,8
+470,A Choudhary,1/28/1990,2,India,Right-hand bat,Left-arm medium,Player,8
+471,AJ Tye,12/12/1986,8,Australia,Right-handed,Right-arm medium fast,Player,21
+472,Ankit Soni,8/2/1993,8,India,ÿRight-hand bat,ÿLegbreak,Player,21
+477,Basil Thampi,9/11/1993,8,India,Right-hand bat,ÿRight-arm fast-medium,Player,21
+487,NB Singh,9/8/1995,8,India,Right-hand bat,Right-arm medium,Player,21
+15,Z Khan,10/7/1978,4,India,Right-hand bat,Left-arm fast-medium,Captain,15
+31,YK Pathan,11/17/1982,1,India,Right-hand bat,Right-arm offbreak,Player,40
+40,G Gambhir,10/14/1981,1,India,Left-hand bat,Legbreak,Captain,40
+46,RV Uthappa,11/11/1985,1,India,Right-hand bat,Right-arm medium,Keeper,40
+96,MK Pandey,9/10/1989,1,India,Right-hand bat,Right-arm medium,Player,40
+136,A Mishra,11/24/1982,4,India,Right-hand bat,Legbreak,Player,15
+232,UT Yadav,10/25/1987,1,India,Right-hand bat,Right-arm fast-medium,Player,40
+315,SP Narine,5/26/1988,1,West Indies,Left-hand bat,Right-arm offbreak,Player,40
+339,KK Nair,12/6/1991,4,India,Right-hand bat,Right-arm offbreak,Player,15
+350,CH Morris,4/30/1987,4,South Africa,Right-hand bat,Right-arm fast-medium,Player,15
+351,SV Samson,11/11/1994,4,India,Right-hand bat,NULL,Player,15
+371,NM Coulter-Nile,10/11/1987,1,Australia,Right-hand bat,Right-arm fast,Player,40
+372,CJ Anderson,12/13/1990,4,New Zealand,Left-hand bat,Left-arm medium-fast,Player,15
+393,SS Iyer,12/6/1994,4,India,Right-hand bat,Legbreak googly,Player,15
+405,PJ Cummins,5/8/1993,4,Australia,Right-hand bat,Right-arm fast,Player,15
+420,RR Pant,10/4/1997,4,India,Left-hand bat,NULL,Keeper,15
+462,Kuldeep Yadav,12/14/1994,1,India,Left-hand bat,Slow left-arm chinaman,Player,40
+473,AR Bawne,12/17/1992,4,India,ÿRight-hand bat,Right-arm offbreak,Player,15
+478,C de Grandhomme,7/22/1986,1,New Zealand,Right-hand bat,Right-arm fast-medium,Player,40
+479,CR Woakes,3/2/1989,1,England,ÿRight-hand bat,Right-arm fast-medium,Player,40
+482,K Rabada,5/25/1995,4,South Africa,ÿLeft-hand bat,Right-arm fast,Player,15
+491,SP Jackson,9/27/1986,1,India,Right-hand bat,NULL,Player,40
+27,Yuvraj Singh,12/12/1981,6,India,Left-hand bat,Slow left-arm orthodox,Player,187
+42,S Dhawan,12/5/1985,6,India,Left-hand bat,Right-arm offbreak,Player,187
+62,WP Saha,10/24/1984,3,India,Right-hand bat,NULL,Keeper,305
+73,A Nehra,4/29/1979,6,India,Right-hand bat,Left-arm medium-fast,Player,187
+84,I Sharma,9/2/1988,3,India,Right-hand bat,Right-arm fast-medium,Player,305
+100,SE Marsh,7/9/1983,3,Australia,Left-hand bat,Slow left-arm orthodox,Player,305
+163,MC Henriques,2/1/1987,6,Australia,Right-hand bat,Right-arm fast-medium,Player,187
+183,NV Ojha,7/20/1983,6,India,Right-hand bat,NULL,Keeper,187
+187,DA Warner,10/27/1986,6,Australia,Left-hand bat,Legbreak,Captain,187
+216,EJG Morgan,9/10/1986,3,England,Left-hand bat,Right-arm medium,Player,305
+299,B Kumar,2/5/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+305,GJ Maxwell,10/14/1988,3,Australia,Right-hand bat,Right-arm offbreak,Captain,305
+345,M Vohra,7/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+364,MM Sharma,9/18/1988,3,India,Right-hand bat,Right-arm medium,Player,305
+368,S Kaul,5/19/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+374,AR Patel,1/20/1994,3,India,Left-hand bat,Slow left-arm orthodox,Player,305
+394,DJ Hooda,4/19/1995,6,India,Right-hand bat,Right-arm offbreak,Player,187
+395,Anureet Singh,3/2/1988,3,India,Right-hand bat,Right-arm medium,Player,305
+396,KS Williamson,8/8/1990,6,New Zealand,Right-hand bat,Right-arm offbreak,Player,187
+415,MJ Guptill,9/30/1986,3,New Zealand,Right-hand bat,Right-arm offbreak,Player,305
+422,KC Cariappa,4/13/1994,3,India,Right-hand bat,Legbreak,Player,305
+489,Rashid Khan,11/20/1998,6,Afghanistan,Right-hand bat,Legbreak googly,Player,187
+8,V Kohli,11/5/1988,2,India,Right-hand bat,Right-arm medium,Captain,8
+20,MS Dhoni,7/7/1981,7,India,Right-hand bat,Right-arm medium,Keeper,306
+85,AM Rahane,6/6/1988,7,India,Right-hand bat,Right-arm medium,Player,306
+87,MK Tiwary,11/14/1985,7,India,Right-hand bat,Legbreak googly,Player,306
+110,AB de Villiers,2/17/1984,2,South Africa,Right-hand bat,Right-arm medium,Player,8
+237,KM Jadhav,3/26/1985,2,India,Right-hand bat,Right-arm offbreak,Keeper,8
+255,STR Binny,6/3/1984,2,India,Right-hand bat,Right-arm medium,Player,8
+258,DT Christian,5/4/1983,7,Australia,Right-hand bat,Right-arm fast-medium,Player,306
+270,S Aravind,4/8/1984,2,India,Left-hand bat,Left-arm medium-fast,Player,8
+306,SPD Smith,6/2/1989,7,India,Right-hand bat,Legbreak googly,Captain,306
+322,P Negi,1/6/1993,2,India,Left-hand bat,Slow left-arm orthodox,Player,8
+346,JD Unadkat,10/18/1991,7,India,Right-hand bat,Left-arm medium,Player,306
+369,Sachin Baby,12/18/1988,2,India,Left-hand bat,Right-arm offbreak,Player,8
+382,YS Chahal,7/23/1990,2,India,Right-hand bat,Legbreak googly,Player,8
+386,Imran Tahir,3/27/1979,7,India,Right-hand bat,Legbreak googly,Player,306
+417,TM Head,12/29/1993,2,Australia,Left-hand bat,Right-arm offbreak,Player,8
+452,S Badree,3/9/1981,2,West Indies,Right-hand bat,Legbreak,Player,8
+461,AF Milne,4/13/1992,2,New Zealand,Right-hand bat,Right-arm fast,Player,8
+465,DL Chahar,8/7/1992,7,India,Right-hand bat,Right-arm medium,Player,306
+483,LH Ferguson,6/13/1991,7,New Zealand,Right-hand bat,Right-arm fast,Player,306
+488,RA Tripathi,3/2/1991,7,India,ÿRight-hand bat,Right-arm medium,Player,306
+497,Washington Sundar,10/5/1999,7,India,ÿLeft-hand bat,ÿRight-arm offbreak,Player,306
+2,BB McCullum,9/27/1981,8,New Zealand,Right-hand bat,Right-arm medium,Player,21
+17,PA Patel,3/9/1985,5,India,Left-hand bat,NULL,Keeper,57
+21,SK Raina,11/27/1986,8,India,Left-hand bat,Right-arm offbreak,Captain,21
+29,IK Pathan,10/27/1984,8,India,Left-hand bat,Left-arm medium-fast,Player,21
+35,RA Jadeja,12/6/1988,8,India,Left-hand bat,Slow left-arm orthodox,Player,21
+50,Harbhajan Singh,7/3/1980,5,India,Right-hand bat,Right-arm offbreak,Player,57
+57,RG Sharma,4/30/1987,5,India,Right-hand bat,Right-arm offbreak,Captain,57
+88,KD Karthik,6/1/1985,8,India,Right-hand bat,NULL,Keeper,21
+194,SL Malinga,8/28/1983,5,Sri Lanka,Right-hand bat,Right-arm fast,Player,57
+221,KA Pollard,5/12/1987,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+254,AJ Finch,11/17/1986,8,Australia,Right-hand bat,Slow left-arm orthodox,Player,21
+310,JP Faulkner,4/29/1990,8,Australia,Right-hand bat,Left-arm fast-medium,Player,21
+375,JJ Bumrah,12/6/1993,5,India,Right-hand bat,Right-arm medium,Player,57
+400,HH Pandya,10/11/1993,5,India,Right-hand bat,Right-arm medium-fast,Player,57
+403,MJ McClenaghan,6/11/1986,5,New Zealand,Left-hand bat,Left-arm fast-medium,Player,57
+407,JC Buttler,9/8/1990,5,England,Right-hand bat,NULL,Player,57
+410,Ishan Kishan,7/18/1998,8,India,Left-hand bat,NULL,Player,21
+413,KH Pandya,3/24/1991,5,India,Left-hand bat,Slow left-arm orthodox,Player,57
+431,N Rana,12/27/1993,5,India,Left-hand bat,Right-arm offbreak,Player,57
+471,AJ Tye,12/12/1986,8,Australia,Right-handed,Right-arm medium fast,Player,21
+472,Ankit Soni,8/2/1993,8,India,ÿRight-hand bat,ÿLegbreak,Player,21
+477,Basil Thampi,9/11/1993,8,India,Right-hand bat,ÿRight-arm fast-medium,Player,21
+62,WP Saha,10/24/1984,3,India,Right-hand bat,NULL,Keeper,305
+100,SE Marsh,7/9/1983,3,Australia,Left-hand bat,Slow left-arm orthodox,Player,305
+136,A Mishra,11/24/1982,4,India,Right-hand bat,Legbreak,Player,15
+293,S Nadeem,8/12/1989,4,India,Right-hand bat,Slow left-arm orthodox,Player,15
+296,VR Aaron,10/29/1989,3,India,Right-hand bat,Right-arm fast,Player,305
+305,GJ Maxwell,10/14/1988,3,Australia,Right-hand bat,Right-arm offbreak,Captain,305
+339,KK Nair,12/6/1991,4,India,Right-hand bat,Right-arm offbreak,Captain,15
+345,M Vohra,7/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+347,Mohammed Shami,9/3/1990,4,India,Right-hand bat,Right-arm fast-medium,Player,15
+350,CH Morris,4/30/1987,4,South Africa,Right-hand bat,Right-arm fast-medium,Player,15
+351,SV Samson,11/11/1994,4,India,Right-hand bat,NULL,Player,15
+364,MM Sharma,9/18/1988,3,India,Right-hand bat,Right-arm medium,Player,305
+367,Sandeep Sharma,5/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+372,CJ Anderson,12/13/1990,4,New Zealand,Left-hand bat,Left-arm medium-fast,Player,15
+374,AR Patel,1/20/1994,3,India,Left-hand bat,Slow left-arm orthodox,Player,305
+393,SS Iyer,12/6/1994,4,India,Right-hand bat,Legbreak googly,Player,15
+415,MJ Guptill,9/30/1986,3,New Zealand,Right-hand bat,Right-arm offbreak,Player,305
+420,RR Pant,10/4/1997,4,India,Left-hand bat,NULL,Keeper,15
+421,SW Billings,6/15/1991,4,England,Right-hand bat,NULL,Player,15
+427,HM Amla,3/31/1983,3,South Africa,Right-hand bat,Right-arm offbreak,Player,305
+482,K Rabada,5/25/1995,4,South Africa,ÿLeft-hand bat,Right-arm fast,Player,15
+493,T Natarajan,5/27/1991,3,India,Left-hand bat,Left-arm medium,Player,305
+27,Yuvraj Singh,12/12/1981,6,India,Left-hand bat,Slow left-arm orthodox,Player,187
+31,YK Pathan,11/17/1982,1,India,Right-hand bat,Right-arm offbreak,Player,40
+40,G Gambhir,10/14/1981,1,India,Left-hand bat,Legbreak,Captain,40
+42,S Dhawan,12/5/1985,6,India,Left-hand bat,Right-arm offbreak,Player,187
+46,RV Uthappa,11/11/1985,1,India,Right-hand bat,Right-arm medium,Keeper,40
+96,MK Pandey,9/10/1989,1,India,Right-hand bat,Right-arm medium,Player,40
+163,MC Henriques,2/1/1987,6,Australia,Right-hand bat,Right-arm fast-medium,Player,187
+183,NV Ojha,7/20/1983,6,India,Right-hand bat,NULL,Keeper,187
+187,DA Warner,10/27/1986,6,Australia,Left-hand bat,Legbreak,Captain,187
+228,Bipul Sharma,9/28/1983,6,India,Left-hand bat,Slow left-arm orthodox,Player,187
+232,UT Yadav,10/25/1987,1,India,Right-hand bat,Right-arm fast-medium,Player,40
+299,B Kumar,2/5/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+315,SP Narine,5/26/1988,1,West Indies,Left-hand bat,Right-arm offbreak,Player,40
+368,S Kaul,5/19/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+371,NM Coulter-Nile,10/11/1987,1,Australia,Right-hand bat,Right-arm fast,Player,40
+396,KS Williamson,8/8/1990,6,New Zealand,Right-hand bat,Right-arm offbreak,Player,187
+462,Kuldeep Yadav,12/14/1994,1,India,Left-hand bat,Slow left-arm chinaman,Player,40
+478,C de Grandhomme,7/22/1986,1,New Zealand,Right-hand bat,Right-arm fast-medium,Player,40
+479,CR Woakes,3/2/1989,1,England,ÿRight-hand bat,Right-arm fast-medium,Player,40
+486,Mohammed Siraj,3/13/1994,6,India,Right-hand bat,ÿRight-arm medium-fast,Player,187
+489,Rashid Khan,11/20/1998,6,Afghanistan,Right-hand bat,Legbreak googly,Player,187
+491,SP Jackson,9/27/1986,1,India,Right-hand bat,NULL,Player,40
+8,V Kohli,11/5/1988,2,India,Right-hand bat,Right-arm medium,Captain,8
+17,PA Patel,3/9/1985,5,India,Left-hand bat,NULL,Keeper,57
+32,SR Watson,6/17/1981,2,Australia,Right-hand bat,Right-arm fast-medium,Player,8
+57,RG Sharma,4/30/1987,5,India,Right-hand bat,Right-arm offbreak,Captain,57
+110,AB de Villiers,2/17/1984,2,South Africa,Right-hand bat,Right-arm medium,Player,8
+166,KV Sharma,10/23/1987,5,India,Left-hand bat,Legbreak googly,Player,57
+194,SL Malinga,8/28/1983,5,Sri Lanka,Right-hand bat,Right-arm fast,Player,57
+221,KA Pollard,5/12/1987,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+236,Mandeep Singh,12/18/1991,2,India,Right-hand bat,Right-arm medium,Player,8
+237,KM Jadhav,3/26/1985,2,India,Right-hand bat,Right-arm offbreak,Keeper,8
+270,S Aravind,4/8/1984,2,India,Left-hand bat,Left-arm medium-fast,Player,8
+322,P Negi,1/6/1993,2,India,Left-hand bat,Slow left-arm orthodox,Player,8
+375,JJ Bumrah,12/6/1993,5,India,Right-hand bat,Right-arm medium,Player,57
+382,YS Chahal,7/23/1990,2,India,Right-hand bat,Legbreak googly,Player,8
+400,HH Pandya,10/11/1993,5,India,Right-hand bat,Right-arm medium-fast,Player,57
+403,MJ McClenaghan,6/11/1986,5,New Zealand,Left-hand bat,Left-arm fast-medium,Player,57
+407,JC Buttler,9/8/1990,5,England,Right-hand bat,NULL,Player,57
+413,KH Pandya,3/24/1991,5,India,Left-hand bat,Slow left-arm orthodox,Player,57
+417,TM Head,12/29/1993,2,Australia,Left-hand bat,Right-arm offbreak,Player,8
+431,N Rana,12/27/1993,5,India,Left-hand bat,Right-arm offbreak,Player,57
+461,AF Milne,4/13/1992,2,New Zealand,Right-hand bat,Right-arm fast,Player,8
+470,A Choudhary,1/28/1990,2,India,Right-hand bat,Left-arm medium,Player,8
+2,BB McCullum,9/27/1981,8,New Zealand,Right-hand bat,Right-arm medium,Player,21
+20,MS Dhoni,7/7/1981,7,India,Right-hand bat,Right-arm medium,Keeper,306
+21,SK Raina,11/27/1986,8,India,Left-hand bat,Right-arm offbreak,Captain,21
+35,RA Jadeja,12/6/1988,8,India,Left-hand bat,Slow left-arm orthodox,Player,21
+85,AM Rahane,6/6/1988,7,India,Right-hand bat,Right-arm medium,Player,306
+87,MK Tiwary,11/14/1985,7,India,Right-hand bat,Legbreak googly,Player,306
+88,KD Karthik,6/1/1985,8,India,Right-hand bat,NULL,Keeper,21
+116,PJ Sangwan,11/5/1990,8,India,Right-hand bat,Left-arm medium,Player,21
+147,DR Smith,4/12/1983,8,West Indies,Right-hand bat,Right-arm medium,Player,21
+254,AJ Finch,11/17/1986,8,Australia,Right-hand bat,Slow left-arm orthodox,Player,21
+258,DT Christian,5/4/1983,7,Australia,Right-hand bat,Right-arm fast-medium,Player,306
+306,SPD Smith,6/2/1989,7,India,Right-hand bat,Legbreak googly,Captain,306
+310,JP Faulkner,4/29/1990,8,Australia,Right-hand bat,Left-arm fast-medium,Player,21
+346,JD Unadkat,10/18/1991,7,India,Right-hand bat,Left-arm medium,Player,306
+386,Imran Tahir,3/27/1979,7,India,Right-hand bat,Legbreak googly,Player,306
+406,SN Thakur,10/16/1991,7,India,Right-hand bat,Right-arm medium,Player,306
+410,Ishan Kishan,7/18/1998,8,India,Left-hand bat,NULL,Player,21
+472,Ankit Soni,8/2/1993,8,India,ÿRight-hand bat,ÿLegbreak,Player,21
+476,BA Stokes,6/4/1991,7,England,Left-hand bat,Right-arm fast-medium,Player,306
+477,Basil Thampi,9/11/1993,8,India,Right-hand bat,ÿRight-arm fast-medium,Player,21
+488,RA Tripathi,3/2/1991,7,India,ÿRight-hand bat,Right-arm medium,Player,306
+497,Washington Sundar,10/5/1999,7,India,ÿLeft-hand bat,ÿRight-arm offbreak,Player,306
+27,Yuvraj Singh,12/12/1981,6,India,Left-hand bat,Slow left-arm orthodox,Player,187
+42,S Dhawan,12/5/1985,6,India,Left-hand bat,Right-arm offbreak,Player,187
+136,A Mishra,11/24/1982,4,India,Right-hand bat,Legbreak,Player,15
+163,MC Henriques,2/1/1987,6,Australia,Right-hand bat,Right-arm fast-medium,Player,187
+183,NV Ojha,7/20/1983,6,India,Right-hand bat,NULL,Keeper,187
+187,DA Warner,10/27/1986,6,Australia,Left-hand bat,Legbreak,Captain,187
+191,AD Mathews,6/2/1987,4,Sri Lanka,Right-hand bat,Right-arm fast-medium,Player,15
+299,B Kumar,2/5/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+339,KK Nair,12/6/1991,4,India,Right-hand bat,Right-arm offbreak,Captain,15
+347,Mohammed Shami,9/3/1990,4,India,Right-hand bat,Right-arm fast-medium,Player,15
+350,CH Morris,4/30/1987,4,South Africa,Right-hand bat,Right-arm fast-medium,Player,15
+351,SV Samson,11/11/1994,4,India,Right-hand bat,NULL,Player,15
+368,S Kaul,5/19/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+372,CJ Anderson,12/13/1990,4,New Zealand,Left-hand bat,Left-arm medium-fast,Player,15
+393,SS Iyer,12/6/1994,4,India,Right-hand bat,Legbreak googly,Player,15
+394,DJ Hooda,4/19/1995,6,India,Right-hand bat,Right-arm offbreak,Player,187
+396,KS Williamson,8/8/1990,6,New Zealand,Right-hand bat,Right-arm offbreak,Player,187
+420,RR Pant,10/4/1997,4,India,Left-hand bat,NULL,Keeper,15
+425,J Yadav,1/22/1990,4,India,Right-hand bat,Right-arm offbreak,Player,15
+482,K Rabada,5/25/1995,4,South Africa,ÿLeft-hand bat,Right-arm fast,Player,15
+486,Mohammed Siraj,3/13/1994,6,India,Right-hand bat,ÿRight-arm medium-fast,Player,187
+489,Rashid Khan,11/20/1998,6,Afghanistan,Right-hand bat,Legbreak googly,Player,187
+20,MS Dhoni,7/7/1981,7,India,Right-hand bat,Right-arm medium,Keeper,306
+31,YK Pathan,11/17/1982,1,India,Right-hand bat,Right-arm offbreak,Player,40
+40,G Gambhir,10/14/1981,1,India,Left-hand bat,Legbreak,Captain,40
+85,AM Rahane,6/6/1988,7,India,Right-hand bat,Right-arm medium,Player,306
+87,MK Tiwary,11/14/1985,7,India,Right-hand bat,Legbreak googly,Player,306
+96,MK Pandey,9/10/1989,1,India,Right-hand bat,Right-arm medium,Player,40
+232,UT Yadav,10/25/1987,1,India,Right-hand bat,Right-arm fast-medium,Player,40
+258,DT Christian,5/4/1983,7,Australia,Right-hand bat,Right-arm fast-medium,Player,306
+306,SPD Smith,6/2/1989,7,India,Right-hand bat,Legbreak googly,Captain,306
+308,SA Yadav,9/14/1990,1,India,Right-hand bat,Right-arm offbreak,Player,40
+315,SP Narine,5/26/1988,1,West Indies,Left-hand bat,Right-arm offbreak,Player,40
+346,JD Unadkat,10/18/1991,7,India,Right-hand bat,Left-arm medium,Player,306
+371,NM Coulter-Nile,10/11/1987,1,Australia,Right-hand bat,Right-arm fast,Player,40
+386,Imran Tahir,3/27/1979,7,India,Right-hand bat,Legbreak googly,Player,306
+406,SN Thakur,10/16/1991,7,India,Right-hand bat,Right-arm medium,Player,306
+462,Kuldeep Yadav,12/14/1994,1,India,Left-hand bat,Slow left-arm chinaman,Player,40
+476,BA Stokes,6/4/1991,7,England,Left-hand bat,Right-arm fast-medium,Player,306
+478,C de Grandhomme,7/22/1986,1,New Zealand,Right-hand bat,Right-arm fast-medium,Player,40
+479,CR Woakes,3/2/1989,1,England,ÿRight-hand bat,Right-arm fast-medium,Player,40
+488,RA Tripathi,3/2/1991,7,India,ÿRight-hand bat,Right-arm medium,Player,306
+491,SP Jackson,9/27/1986,1,India,Right-hand bat,NULL,Keeper,40
+497,Washington Sundar,10/5/1999,7,India,ÿLeft-hand bat,ÿRight-arm offbreak,Player,306
+2,BB McCullum,9/27/1981,8,New Zealand,Right-hand bat,Right-arm medium,Player,21
+21,SK Raina,11/27/1986,8,India,Left-hand bat,Right-arm offbreak,Captain,21
+35,RA Jadeja,12/6/1988,8,India,Left-hand bat,Slow left-arm orthodox,Player,21
+88,KD Karthik,6/1/1985,8,India,Right-hand bat,NULL,Keeper,21
+116,PJ Sangwan,11/5/1990,8,India,Right-hand bat,Left-arm medium,Player,21
+136,A Mishra,11/24/1982,4,India,Right-hand bat,Legbreak,Player,15
+147,DR Smith,4/12/1983,8,West Indies,Right-hand bat,Right-arm medium,Player,21
+254,AJ Finch,11/17/1986,8,Australia,Right-hand bat,Slow left-arm orthodox,Player,21
+293,S Nadeem,8/12/1989,4,India,Right-hand bat,Slow left-arm orthodox,Player,15
+307,MN Samuels,2/5/1981,4,West Indies,Right-hand bat,Right-arm offbreak,Player,15
+310,JP Faulkner,4/29/1990,8,Australia,Right-hand bat,Left-arm fast-medium,Player,21
+339,KK Nair,12/6/1991,4,India,Right-hand bat,Right-arm offbreak,Captain,15
+347,Mohammed Shami,9/3/1990,4,India,Right-hand bat,Right-arm fast-medium,Player,15
+351,SV Samson,11/11/1994,4,India,Right-hand bat,NULL,Player,15
+372,CJ Anderson,12/13/1990,4,New Zealand,Left-hand bat,Left-arm medium-fast,Player,15
+393,SS Iyer,12/6/1994,4,India,Right-hand bat,Legbreak googly,Player,15
+405,PJ Cummins,5/8/1993,4,Australia,Right-hand bat,Right-arm fast,Player,15
+410,Ishan Kishan,7/18/1998,8,India,Left-hand bat,NULL,Player,21
+420,RR Pant,10/4/1997,4,India,Left-hand bat,NULL,Keeper,15
+472,Ankit Soni,8/2/1993,8,India,ÿRight-hand bat,ÿLegbreak,Player,21
+477,Basil Thampi,9/11/1993,8,India,Right-hand bat,ÿRight-arm fast-medium,Player,21
+482,K Rabada,5/25/1995,4,South Africa,ÿLeft-hand bat,Right-arm fast,Player,15
+8,V Kohli,11/5/1988,2,India,Right-hand bat,Right-arm medium,Captain,8
+32,SR Watson,6/17/1981,2,Australia,Right-hand bat,Right-arm fast-medium,Player,8
+62,WP Saha,10/24/1984,3,India,Right-hand bat,NULL,Keeper,305
+100,SE Marsh,7/9/1983,3,Australia,Left-hand bat,Slow left-arm orthodox,Player,305
+110,AB de Villiers,2/17/1984,2,South Africa,Right-hand bat,Right-arm medium,Player,8
+162,CH Gayle,9/21/1979,2,West Indies,Left-hand bat,Right-arm offbreak,Player,8
+236,Mandeep Singh,12/18/1991,2,India,Right-hand bat,Right-arm medium,Player,8
+237,KM Jadhav,3/26/1985,2,India,Right-hand bat,Right-arm offbreak,Keeper,8
+270,S Aravind,4/8/1984,2,India,Left-hand bat,Left-arm medium-fast,Player,8
+296,VR Aaron,10/29/1989,3,India,Right-hand bat,Right-arm fast,Player,305
+305,GJ Maxwell,10/14/1988,3,Australia,Right-hand bat,Right-arm offbreak,Captain,305
+322,P Negi,1/6/1993,2,India,Left-hand bat,Slow left-arm orthodox,Player,8
+345,M Vohra,7/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+364,MM Sharma,9/18/1988,3,India,Right-hand bat,Right-arm medium,Player,305
+367,Sandeep Sharma,5/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+374,AR Patel,1/20/1994,3,India,Left-hand bat,Slow left-arm orthodox,Player,305
+382,YS Chahal,7/23/1990,2,India,Right-hand bat,Legbreak googly,Player,8
+415,MJ Guptill,9/30/1986,3,New Zealand,Right-hand bat,Right-arm offbreak,Player,305
+427,HM Amla,3/31/1983,3,South Africa,Right-hand bat,Right-arm offbreak,Player,305
+452,S Badree,3/9/1981,2,West Indies,Right-hand bat,Legbreak,Player,8
+470,A Choudhary,1/28/1990,2,India,Right-hand bat,Left-arm medium,Player,8
+493,T Natarajan,5/27/1991,3,India,Left-hand bat,Left-arm medium,Player,305
+20,MS Dhoni,7/7/1981,7,India,Right-hand bat,Right-arm medium,Keeper,306
+27,Yuvraj Singh,12/12/1981,6,India,Left-hand bat,Slow left-arm orthodox,Player,187
+42,S Dhawan,12/5/1985,6,India,Left-hand bat,Right-arm offbreak,Player,187
+73,A Nehra,4/29/1979,6,India,Right-hand bat,Left-arm medium-fast,Player,187
+85,AM Rahane,6/6/1988,7,India,Right-hand bat,Right-arm medium,Player,306
+87,MK Tiwary,11/14/1985,7,India,Right-hand bat,Legbreak googly,Player,306
+163,MC Henriques,2/1/1987,6,Australia,Right-hand bat,Right-arm fast-medium,Player,187
+183,NV Ojha,7/20/1983,6,India,Right-hand bat,NULL,Keeper,187
+187,DA Warner,10/27/1986,6,Australia,Left-hand bat,Legbreak,Captain,187
+228,Bipul Sharma,9/28/1983,6,India,Left-hand bat,Slow left-arm orthodox,Player,187
+258,DT Christian,5/4/1983,7,Australia,Right-hand bat,Right-arm fast-medium,Player,306
+299,B Kumar,2/5/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+306,SPD Smith,6/2/1989,7,India,Right-hand bat,Legbreak googly,Captain,306
+346,JD Unadkat,10/18/1991,7,India,Right-hand bat,Left-arm medium,Player,306
+368,S Kaul,5/19/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+386,Imran Tahir,3/27/1979,7,India,Right-hand bat,Legbreak googly,Player,306
+396,KS Williamson,8/8/1990,6,New Zealand,Right-hand bat,Right-arm offbreak,Player,187
+406,SN Thakur,10/16/1991,7,India,Right-hand bat,Right-arm medium,Player,306
+476,BA Stokes,6/4/1991,7,England,Left-hand bat,Right-arm fast-medium,Player,306
+488,RA Tripathi,3/2/1991,7,India,ÿRight-hand bat,Right-arm medium,Player,306
+489,Rashid Khan,11/20/1998,6,Afghanistan,Right-hand bat,Legbreak googly,Player,187
+497,Washington Sundar,10/5/1999,7,India,ÿLeft-hand bat,ÿRight-arm offbreak,Player,306
+15,Z Khan,10/7/1978,4,India,Right-hand bat,Left-arm fast-medium,Captain,15
+17,PA Patel,3/9/1985,5,India,Left-hand bat,NULL,Keeper,57
+50,Harbhajan Singh,7/3/1980,5,India,Right-hand bat,Right-arm offbreak,Player,57
+57,RG Sharma,4/30/1987,5,India,Right-hand bat,Right-arm offbreak,Captain,57
+136,A Mishra,11/24/1982,4,India,Right-hand bat,Legbreak,Player,15
+166,KV Sharma,10/23/1987,5,India,Left-hand bat,Legbreak googly,Player,57
+194,SL Malinga,8/28/1983,5,Sri Lanka,Right-hand bat,Right-arm fast,Player,57
+221,KA Pollard,5/12/1987,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+307,MN Samuels,2/5/1981,4,West Indies,Right-hand bat,Right-arm offbreak,Player,15
+339,KK Nair,12/6/1991,4,India,Right-hand bat,Right-arm offbreak,Player,15
+347,Mohammed Shami,9/3/1990,4,India,Right-hand bat,Right-arm fast-medium,Player,15
+351,SV Samson,11/11/1994,4,India,Right-hand bat,NULL,Player,15
+372,CJ Anderson,12/13/1990,4,New Zealand,Left-hand bat,Left-arm medium-fast,Player,15
+375,JJ Bumrah,12/6/1993,5,India,Right-hand bat,Right-arm medium,Player,57
+383,LMP Simmons,1/25/1985,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+393,SS Iyer,12/6/1994,4,India,Right-hand bat,Legbreak googly,Player,15
+400,HH Pandya,10/11/1993,5,India,Right-hand bat,Right-arm medium-fast,Player,57
+403,MJ McClenaghan,6/11/1986,5,New Zealand,Left-hand bat,Left-arm fast-medium,Player,57
+405,PJ Cummins,5/8/1993,4,Australia,Right-hand bat,Right-arm fast,Player,15
+420,RR Pant,10/4/1997,4,India,Left-hand bat,NULL,Keeper,15
+431,N Rana,12/27/1993,5,India,Left-hand bat,Right-arm offbreak,Player,57
+482,K Rabada,5/25/1995,4,South Africa,ÿLeft-hand bat,Right-arm fast,Player,15
+8,V Kohli,11/5/1988,2,India,Right-hand bat,Right-arm medium,Captain,8
+31,YK Pathan,11/17/1982,1,India,Right-hand bat,Right-arm offbreak,Player,40
+40,G Gambhir,10/14/1981,1,India,Left-hand bat,Legbreak,Captain,40
+67,PP Chawla,12/24/1988,1,India,Left-hand bat,Legbreak,Player,40
+96,MK Pandey,9/10/1989,1,India,Right-hand bat,Right-arm medium,Player,40
+110,AB de Villiers,2/17/1984,2,South Africa,Right-hand bat,Right-arm medium,Player,8
+162,CH Gayle,9/21/1979,2,West Indies,Left-hand bat,Right-arm offbreak,Player,8
+232,UT Yadav,10/25/1987,1,India,Right-hand bat,Right-arm fast-medium,Player,40
+236,Mandeep Singh,12/18/1991,2,India,Right-hand bat,Right-arm medium,Player,8
+237,KM Jadhav,3/26/1985,2,India,Right-hand bat,Right-arm offbreak,Keeper,8
+270,S Aravind,4/8/1984,2,India,Left-hand bat,Left-arm medium-fast,Player,8
+315,SP Narine,5/26/1988,1,West Indies,Left-hand bat,Right-arm offbreak,Player,40
+322,P Negi,1/6/1993,2,India,Left-hand bat,Slow left-arm orthodox,Player,8
+336,CA Lynn,4/10/1990,1,Australia,Right-hand bat,Slow left-arm orthodox,Player,40
+344,AS Rajpoot,12/4/1993,1,India,Right-hand bat,Right-arm medium,Player,40
+382,YS Chahal,7/23/1990,2,India,Right-hand bat,Legbreak googly,Player,8
+417,TM Head,12/29/1993,2,Australia,Left-hand bat,Right-arm offbreak,Player,8
+452,S Badree,3/9/1981,2,West Indies,Right-hand bat,Legbreak,Player,8
+470,A Choudhary,1/28/1990,2,India,Right-hand bat,Left-arm medium,Player,8
+478,C de Grandhomme,7/22/1986,1,New Zealand,Right-hand bat,Right-arm fast-medium,Player,40
+479,CR Woakes,3/2/1989,1,England,ÿRight-hand bat,Right-arm fast-medium,Player,40
+491,SP Jackson,9/27/1986,1,India,Right-hand bat,NULL,Keeper,40
+21,SK Raina,11/27/1986,8,India,Left-hand bat,Right-arm offbreak,Captain,21
+35,RA Jadeja,12/6/1988,8,India,Left-hand bat,Slow left-arm orthodox,Player,21
+62,WP Saha,10/24/1984,3,India,Right-hand bat,NULL,Keeper,305
+80,DS Kulkarni,12/10/1988,8,India,Right-hand bat,Right-arm medium,Player,21
+88,KD Karthik,6/1/1985,8,India,Right-hand bat,NULL,Keeper,21
+100,SE Marsh,7/9/1983,3,Australia,Left-hand bat,Slow left-arm orthodox,Player,305
+116,PJ Sangwan,11/5/1990,8,India,Right-hand bat,Left-arm medium,Player,21
+147,DR Smith,4/12/1983,8,West Indies,Right-hand bat,Right-arm medium,Player,21
+254,AJ Finch,11/17/1986,8,Australia,Right-hand bat,Slow left-arm orthodox,Player,21
+296,VR Aaron,10/29/1989,3,India,Right-hand bat,Right-arm fast,Player,305
+305,GJ Maxwell,10/14/1988,3,Australia,Right-hand bat,Right-arm offbreak,Captain,305
+310,JP Faulkner,4/29/1990,8,Australia,Right-hand bat,Left-arm fast-medium,Player,21
+329,Gurkeerat Singh,6/29/1990,3,India,Right-hand bat,Right-arm offbreak,Player,305
+364,MM Sharma,9/18/1988,3,India,Right-hand bat,Right-arm medium,Player,305
+367,Sandeep Sharma,5/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+374,AR Patel,1/20/1994,3,India,Left-hand bat,Slow left-arm orthodox,Player,305
+410,Ishan Kishan,7/18/1998,8,India,Left-hand bat,NULL,Player,21
+415,MJ Guptill,9/30/1986,3,New Zealand,Right-hand bat,Right-arm offbreak,Player,305
+427,HM Amla,3/31/1983,3,South Africa,Right-hand bat,Right-arm offbreak,Player,305
+472,Ankit Soni,8/2/1993,8,India,ÿRight-hand bat,ÿLegbreak,Player,21
+477,Basil Thampi,9/11/1993,8,India,Right-hand bat,ÿRight-arm fast-medium,Player,21
+493,T Natarajan,5/27/1991,3,India,Left-hand bat,Left-arm medium,Player,305
+17,PA Patel,3/9/1985,5,India,Left-hand bat,NULL,Keeper,57
+27,Yuvraj Singh,12/12/1981,6,India,Left-hand bat,Slow left-arm orthodox,Player,187
+42,S Dhawan,12/5/1985,6,India,Left-hand bat,Right-arm offbreak,Player,187
+50,Harbhajan Singh,7/3/1980,5,India,Right-hand bat,Right-arm offbreak,Player,57
+57,RG Sharma,4/30/1987,5,India,Right-hand bat,Right-arm offbreak,Captain,57
+163,MC Henriques,2/1/1987,6,Australia,Right-hand bat,Right-arm fast-medium,Player,187
+166,KV Sharma,10/23/1987,5,India,Left-hand bat,Legbreak googly,Player,57
+183,NV Ojha,7/20/1983,6,India,Right-hand bat,NULL,Keeper,187
+187,DA Warner,10/27/1986,6,Australia,Left-hand bat,Legbreak,Captain,187
+194,SL Malinga,8/28/1983,5,Sri Lanka,Right-hand bat,Right-arm fast,Player,57
+221,KA Pollard,5/12/1987,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+299,B Kumar,2/5/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+368,S Kaul,5/19/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+375,JJ Bumrah,12/6/1993,5,India,Right-hand bat,Right-arm medium,Player,57
+383,LMP Simmons,1/25/1985,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+400,HH Pandya,10/11/1993,5,India,Right-hand bat,Right-arm medium-fast,Player,57
+403,MJ McClenaghan,6/11/1986,5,New Zealand,Left-hand bat,Left-arm fast-medium,Player,57
+431,N Rana,12/27/1993,5,India,Left-hand bat,Right-arm offbreak,Player,57
+455,V Shankar,1/26/1991,6,India,Right-hand bat,Right-arm medium,Player,187
+485,Mohammad Nabi,1/1/1985,6,Afghanistan,ÿRight-hand bat,Right-arm offbreak,Player,187
+486,Mohammed Siraj,3/13/1994,6,India,Right-hand bat,ÿRight-arm medium-fast,Player,187
+489,Rashid Khan,11/20/1998,6,Afghanistan,Right-hand bat,Legbreak googly,Player,187
+31,YK Pathan,11/17/1982,1,India,Right-hand bat,Right-arm offbreak,Player,40
+40,G Gambhir,10/14/1981,1,India,Left-hand bat,Legbreak,Captain,40
+46,RV Uthappa,11/11/1985,1,India,Right-hand bat,Right-arm medium,Keeper,40
+62,WP Saha,10/24/1984,3,India,Right-hand bat,NULL,Keeper,305
+96,MK Pandey,9/10/1989,1,India,Right-hand bat,Right-arm medium,Player,40
+100,SE Marsh,7/9/1983,3,Australia,Left-hand bat,Slow left-arm orthodox,Player,305
+232,UT Yadav,10/25/1987,1,India,Right-hand bat,Right-arm fast-medium,Player,40
+305,GJ Maxwell,10/14/1988,3,Australia,Right-hand bat,Right-arm offbreak,Captain,305
+315,SP Narine,5/26/1988,1,West Indies,Left-hand bat,Right-arm offbreak,Player,40
+336,CA Lynn,4/10/1990,1,Australia,Right-hand bat,Slow left-arm orthodox,Player,40
+344,AS Rajpoot,12/4/1993,1,India,Right-hand bat,Right-arm medium,Player,40
+345,M Vohra,7/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+364,MM Sharma,9/18/1988,3,India,Right-hand bat,Right-arm medium,Player,305
+367,Sandeep Sharma,5/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+374,AR Patel,1/20/1994,3,India,Left-hand bat,Slow left-arm orthodox,Player,305
+390,R Tewatia,5/20/1993,3,India,Left-hand bat,Legbreak,Player,305
+415,MJ Guptill,9/30/1986,3,New Zealand,Right-hand bat,Right-arm offbreak,Player,305
+424,Swapnil Singh,1/22/1991,3,India,Right-hand bat,Slow left-arm orthodox,Player,305
+462,Kuldeep Yadav,12/14/1994,1,India,Left-hand bat,Slow left-arm chinaman,Player,40
+478,C de Grandhomme,7/22/1986,1,New Zealand,Right-hand bat,Right-arm fast-medium,Player,40
+479,CR Woakes,3/2/1989,1,England,ÿRight-hand bat,Right-arm fast-medium,Player,40
+484,MJ Henry,12/14/1991,3,New Zealand,ÿRight-hand bat,Right-arm fast-medium,Player,305
+15,Z Khan,10/7/1978,4,India,Right-hand bat,Left-arm fast-medium,Captain,15
+21,SK Raina,11/27/1986,8,India,Left-hand bat,Right-arm offbreak,Captain,21
+35,RA Jadeja,12/6/1988,8,India,Left-hand bat,Slow left-arm orthodox,Player,21
+80,DS Kulkarni,12/10/1988,8,India,Right-hand bat,Right-arm medium,Player,21
+88,KD Karthik,6/1/1985,8,India,Right-hand bat,NULL,Keeper,21
+116,PJ Sangwan,11/5/1990,8,India,Right-hand bat,Left-arm medium,Player,21
+136,A Mishra,11/24/1982,4,India,Right-hand bat,Legbreak,Player,15
+147,DR Smith,4/12/1983,8,West Indies,Right-hand bat,Right-arm medium,Player,21
+254,AJ Finch,11/17/1986,8,Australia,Right-hand bat,Slow left-arm orthodox,Player,21
+307,MN Samuels,2/5/1981,4,West Indies,Right-hand bat,Right-arm offbreak,Player,15
+310,JP Faulkner,4/29/1990,8,Australia,Right-hand bat,Left-arm fast-medium,Player,21
+339,KK Nair,12/6/1991,4,India,Right-hand bat,Right-arm offbreak,Player,15
+347,Mohammed Shami,9/3/1990,4,India,Right-hand bat,Right-arm fast-medium,Player,15
+351,SV Samson,11/11/1994,4,India,Right-hand bat,NULL,Player,15
+372,CJ Anderson,12/13/1990,4,New Zealand,Left-hand bat,Left-arm medium-fast,Player,15
+393,SS Iyer,12/6/1994,4,India,Right-hand bat,Legbreak googly,Player,15
+405,PJ Cummins,5/8/1993,4,Australia,Right-hand bat,Right-arm fast,Player,15
+408,CR Brathwaite,7/18/1988,4,West Indies,Right-hand bat,Right-arm fast-medium,Player,15
+410,Ishan Kishan,7/18/1998,8,India,Left-hand bat,NULL,Player,21
+420,RR Pant,10/4/1997,4,India,Left-hand bat,NULL,Keeper,15
+472,Ankit Soni,8/2/1993,8,India,ÿRight-hand bat,ÿLegbreak,Player,21
+477,Basil Thampi,9/11/1993,8,India,Right-hand bat,ÿRight-arm fast-medium,Player,21
+17,PA Patel,3/9/1985,5,India,Left-hand bat,NULL,Keeper,57
+50,Harbhajan Singh,7/3/1980,5,India,Right-hand bat,Right-arm offbreak,Player,57
+57,RG Sharma,4/30/1987,5,India,Right-hand bat,Right-arm offbreak,Captain,57
+62,WP Saha,10/24/1984,3,India,Right-hand bat,NULL,Keeper,305
+84,I Sharma,9/2/1988,3,India,Right-hand bat,Right-arm fast-medium,Player,305
+100,SE Marsh,7/9/1983,3,Australia,Left-hand bat,Slow left-arm orthodox,Player,305
+166,KV Sharma,10/23/1987,5,India,Left-hand bat,Legbreak googly,Player,57
+194,SL Malinga,8/28/1983,5,Sri Lanka,Right-hand bat,Right-arm fast,Player,57
+221,KA Pollard,5/12/1987,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+305,GJ Maxwell,10/14/1988,3,Australia,Right-hand bat,Right-arm offbreak,Captain,305
+345,M Vohra,7/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+364,MM Sharma,9/18/1988,3,India,Right-hand bat,Right-arm medium,Player,305
+367,Sandeep Sharma,5/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+374,AR Patel,1/20/1994,3,India,Left-hand bat,Slow left-arm orthodox,Player,305
+375,JJ Bumrah,12/6/1993,5,India,Right-hand bat,Right-arm medium,Player,57
+383,LMP Simmons,1/25/1985,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+390,R Tewatia,5/20/1993,3,India,Left-hand bat,Legbreak,Player,305
+400,HH Pandya,10/11/1993,5,India,Right-hand bat,Right-arm medium-fast,Player,57
+403,MJ McClenaghan,6/11/1986,5,New Zealand,Left-hand bat,Left-arm fast-medium,Player,57
+415,MJ Guptill,9/30/1986,3,New Zealand,Right-hand bat,Right-arm offbreak,Player,305
+431,N Rana,12/27/1993,5,India,Left-hand bat,Right-arm offbreak,Player,57
+484,MJ Henry,12/14/1991,3,New Zealand,ÿRight-hand bat,Right-arm fast-medium,Player,305
+15,Z Khan,10/7/1978,4,India,Right-hand bat,Left-arm fast-medium,Captain,15
+20,MS Dhoni,7/7/1981,7,India,Right-hand bat,Right-arm medium,Keeper,306
+85,AM Rahane,6/6/1988,7,India,Right-hand bat,Right-arm medium,Player,306
+87,MK Tiwary,11/14/1985,7,India,Right-hand bat,Legbreak googly,Player,306
+136,A Mishra,11/24/1982,4,India,Right-hand bat,Legbreak,Player,15
+258,DT Christian,5/4/1983,7,Australia,Right-hand bat,Right-arm fast-medium,Player,306
+293,S Nadeem,8/12/1989,4,India,Right-hand bat,Slow left-arm orthodox,Player,15
+306,SPD Smith,6/2/1989,7,India,Right-hand bat,Legbreak googly,Captain,306
+307,MN Samuels,2/5/1981,4,West Indies,Right-hand bat,Right-arm offbreak,Player,15
+339,KK Nair,12/6/1991,4,India,Right-hand bat,Right-arm offbreak,Player,15
+346,JD Unadkat,10/18/1991,7,India,Right-hand bat,Left-arm medium,Player,306
+347,Mohammed Shami,9/3/1990,4,India,Right-hand bat,Right-arm fast-medium,Player,15
+351,SV Samson,11/11/1994,4,India,Right-hand bat,NULL,Player,15
+372,CJ Anderson,12/13/1990,4,New Zealand,Left-hand bat,Left-arm medium-fast,Player,15
+393,SS Iyer,12/6/1994,4,India,Right-hand bat,Legbreak googly,Player,15
+405,PJ Cummins,5/8/1993,4,Australia,Right-hand bat,Right-arm fast,Player,15
+406,SN Thakur,10/16/1991,7,India,Right-hand bat,Right-arm medium,Player,306
+420,RR Pant,10/4/1997,4,India,Left-hand bat,NULL,Keeper,15
+430,A Zampa,3/31/1992,7,Australia,Right-hand bat,Legbreak googly,Player,306
+476,BA Stokes,6/4/1991,7,England,Left-hand bat,Right-arm fast-medium,Player,306
+488,RA Tripathi,3/2/1991,7,India,ÿRight-hand bat,Right-arm medium,Player,306
+497,Washington Sundar,10/5/1999,7,India,ÿLeft-hand bat,ÿRight-arm offbreak,Player,306
+14,P Kumar,10/2/1986,8,India,Right-hand bat,Right-arm medium,Player,21
+21,SK Raina,11/27/1986,8,India,Left-hand bat,Right-arm offbreak,Captain,21
+35,RA Jadeja,12/6/1988,8,India,Left-hand bat,Slow left-arm orthodox,Player,21
+42,S Dhawan,12/5/1985,6,India,Left-hand bat,Right-arm offbreak,Player,187
+88,KD Karthik,6/1/1985,8,India,Right-hand bat,NULL,Keeper,21
+116,PJ Sangwan,11/5/1990,8,India,Right-hand bat,Left-arm medium,Player,21
+126,MM Patel,7/12/1983,8,India,Right-hand bat,Right-arm medium-fast,Player,21
+147,DR Smith,4/12/1983,8,West Indies,Right-hand bat,Right-arm medium,Player,21
+163,MC Henriques,2/1/1987,6,Australia,Right-hand bat,Right-arm fast-medium,Player,187
+183,NV Ojha,7/20/1983,6,India,Right-hand bat,NULL,Keeper,187
+187,DA Warner,10/27/1986,6,Australia,Left-hand bat,Legbreak,Captain,187
+254,AJ Finch,11/17/1986,8,Australia,Right-hand bat,Slow left-arm orthodox,Player,21
+299,B Kumar,2/5/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+310,JP Faulkner,4/29/1990,8,Australia,Right-hand bat,Left-arm fast-medium,Player,21
+368,S Kaul,5/19/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+394,DJ Hooda,4/19/1995,6,India,Right-hand bat,Right-arm offbreak,Player,187
+410,Ishan Kishan,7/18/1998,8,India,Left-hand bat,NULL,Player,21
+455,V Shankar,1/26/1991,6,India,Right-hand bat,Right-arm medium,Player,187
+472,Ankit Soni,8/2/1993,8,India,ÿRight-hand bat,ÿLegbreak,Player,21
+485,Mohammad Nabi,1/1/1985,6,Afghanistan,ÿRight-hand bat,Right-arm offbreak,Player,187
+486,Mohammed Siraj,3/13/1994,6,India,Right-hand bat,ÿRight-arm medium-fast,Player,187
+489,Rashid Khan,11/20/1998,6,Afghanistan,Right-hand bat,Legbreak googly,Player,187
+31,YK Pathan,11/17/1982,1,India,Right-hand bat,Right-arm offbreak,Player,40
+40,G Gambhir,10/14/1981,1,India,Left-hand bat,Legbreak,Captain,40
+46,RV Uthappa,11/11/1985,1,India,Right-hand bat,Right-arm medium,Keeper,40
+57,RG Sharma,4/30/1987,5,India,Right-hand bat,Right-arm offbreak,Captain,57
+79,SS Tiwary,12/30/1989,5,India,Left-hand bat,NULL,Player,57
+81,R Vinay Kumar,2/12/1984,5,India,Right-hand bat,Right-arm medium,Player,57
+96,MK Pandey,9/10/1989,1,India,Right-hand bat,Right-arm medium,Player,40
+166,KV Sharma,10/23/1987,5,India,Left-hand bat,Legbreak googly,Player,57
+208,AT Rayudu,9/23/1985,5,India,Right-hand bat,Right-arm offbreak,Keeper,57
+221,KA Pollard,5/12/1987,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+232,UT Yadav,10/25/1987,1,India,Right-hand bat,Right-arm fast-medium,Player,40
+315,SP Narine,5/26/1988,1,West Indies,Left-hand bat,Right-arm offbreak,Player,40
+336,CA Lynn,4/10/1990,1,Australia,Right-hand bat,Slow left-arm orthodox,Player,40
+344,AS Rajpoot,12/4/1993,1,India,Right-hand bat,Right-arm medium,Player,40
+357,MG Johnson,11/2/1981,5,Australia,Left-hand bat,Left-arm fast,Player,57
+377,TG Southee,12/11/1988,5,New Zealand,Right-hand bat,Right-arm medium-fast,Player,57
+383,LMP Simmons,1/25/1985,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+400,HH Pandya,10/11/1993,5,India,Right-hand bat,Right-arm medium-fast,Player,57
+413,KH Pandya,3/24/1991,5,India,Left-hand bat,Slow left-arm orthodox,Player,57
+458,TA Boult,7/22/1989,1,New Zealand,Right-hand bat,Left-arm fast-medium,Player,40
+462,Kuldeep Yadav,12/14/1994,1,India,Left-hand bat,Slow left-arm chinaman,Player,40
+478,C de Grandhomme,7/22/1986,1,New Zealand,Right-hand bat,Right-arm fast-medium,Player,40
+20,MS Dhoni,7/7/1981,7,India,Right-hand bat,Right-arm medium,Keeper,306
+62,WP Saha,10/24/1984,3,India,Right-hand bat,NULL,Keeper,305
+84,I Sharma,9/2/1988,3,India,Right-hand bat,Right-arm fast-medium,Player,305
+85,AM Rahane,6/6/1988,7,India,Right-hand bat,Right-arm medium,Player,306
+87,MK Tiwary,11/14/1985,7,India,Right-hand bat,Legbreak googly,Player,306
+100,SE Marsh,7/9/1983,3,Australia,Left-hand bat,Slow left-arm orthodox,Player,305
+216,EJG Morgan,9/10/1986,3,England,Left-hand bat,Right-arm medium,Player,305
+258,DT Christian,5/4/1983,7,Australia,Right-hand bat,Right-arm fast-medium,Player,306
+305,GJ Maxwell,10/14/1988,3,Australia,Right-hand bat,Right-arm offbreak,Captain,305
+306,SPD Smith,6/2/1989,7,India,Right-hand bat,Legbreak googly,Captain,306
+346,JD Unadkat,10/18/1991,7,India,Right-hand bat,Left-arm medium,Player,306
+364,MM Sharma,9/18/1988,3,India,Right-hand bat,Right-arm medium,Player,305
+367,Sandeep Sharma,5/18/1993,3,India,Right-hand bat,Right-arm medium,Player,305
+374,AR Patel,1/20/1994,3,India,Left-hand bat,Slow left-arm orthodox,Player,305
+390,R Tewatia,5/20/1993,3,India,Left-hand bat,Legbreak,Player,305
+406,SN Thakur,10/16/1991,7,India,Right-hand bat,Right-arm medium,Player,306
+415,MJ Guptill,9/30/1986,3,New Zealand,Right-hand bat,Right-arm offbreak,Player,305
+424,Swapnil Singh,1/22/1991,3,India,Right-hand bat,Slow left-arm orthodox,Player,305
+430,A Zampa,3/31/1992,7,Australia,Right-hand bat,Legbreak googly,Player,306
+476,BA Stokes,6/4/1991,7,England,Left-hand bat,Right-arm fast-medium,Player,306
+488,RA Tripathi,3/2/1991,7,India,ÿRight-hand bat,Right-arm medium,Player,306
+497,Washington Sundar,10/5/1999,7,India,ÿLeft-hand bat,ÿRight-arm offbreak,Player,306
+8,V Kohli,11/5/1988,2,India,Right-hand bat,Right-arm medium,Captain,8
+15,Z Khan,10/7/1978,4,India,Right-hand bat,Left-arm fast-medium,Captain,15
+32,SR Watson,6/17/1981,2,Australia,Right-hand bat,Right-arm fast-medium,Player,8
+136,A Mishra,11/24/1982,4,India,Right-hand bat,Legbreak,Player,15
+162,CH Gayle,9/21/1979,2,West Indies,Left-hand bat,Right-arm offbreak,Player,8
+237,KM Jadhav,3/26/1985,2,India,Right-hand bat,Right-arm offbreak,Player,8
+293,S Nadeem,8/12/1989,4,India,Right-hand bat,Slow left-arm orthodox,Player,15
+307,MN Samuels,2/5/1981,4,West Indies,Right-hand bat,Right-arm offbreak,Player,15
+311,HV Patel,11/23/1990,2,India,Right-hand bat,Right-arm medium,Player,8
+322,P Negi,1/6/1993,2,India,Left-hand bat,Slow left-arm orthodox,Player,8
+339,KK Nair,12/6/1991,4,India,Right-hand bat,Right-arm offbreak,Player,15
+347,Mohammed Shami,9/3/1990,4,India,Right-hand bat,Right-arm fast-medium,Player,15
+351,SV Samson,11/11/1994,4,India,Right-hand bat,NULL,Player,15
+369,Sachin Baby,12/18/1988,2,India,Left-hand bat,Right-arm offbreak,Player,8
+372,CJ Anderson,12/13/1990,4,New Zealand,Left-hand bat,Left-arm medium-fast,Player,15
+382,YS Chahal,7/23/1990,2,India,Right-hand bat,Legbreak googly,Player,8
+393,SS Iyer,12/6/1994,4,India,Right-hand bat,Legbreak googly,Player,15
+405,PJ Cummins,5/8/1993,4,Australia,Right-hand bat,Right-arm fast,Player,15
+417,TM Head,12/29/1993,2,Australia,Left-hand bat,Right-arm offbreak,Player,8
+420,RR Pant,10/4/1997,4,India,Left-hand bat,NULL,Keeper,15
+474,Avesh Khan,12/13/1996,2,India,Right-hand bat,Right-arm medium-fast,Player,8
+496,Vishnu Vinod,12/2/1993,2,India,Right-hand bat,NULL,Keeper,8
+17,PA Patel,3/9/1985,5,India,Left-hand bat,NULL,Keeper,57
+20,MS Dhoni,7/7/1981,7,India,Right-hand bat,Right-arm medium,Keeper,306
+57,RG Sharma,4/30/1987,5,India,Right-hand bat,Right-arm offbreak,Captain,57
+85,AM Rahane,6/6/1988,7,India,Right-hand bat,Right-arm medium,Player,306
+87,MK Tiwary,11/14/1985,7,India,Right-hand bat,Legbreak googly,Player,306
+166,KV Sharma,10/23/1987,5,India,Left-hand bat,Legbreak googly,Player,57
+194,SL Malinga,8/28/1983,5,Sri Lanka,Right-hand bat,Right-arm fast,Player,57
+208,AT Rayudu,9/23/1985,5,India,Right-hand bat,Right-arm offbreak,Player,57
+221,KA Pollard,5/12/1987,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+258,DT Christian,5/4/1983,7,Australia,Right-hand bat,Right-arm fast-medium,Player,306
+306,SPD Smith,6/2/1989,7,India,Right-hand bat,Legbreak googly,Captain,306
+346,JD Unadkat,10/18/1991,7,India,Right-hand bat,Left-arm medium,Player,306
+375,JJ Bumrah,12/6/1993,5,India,Right-hand bat,Right-arm medium,Player,57
+383,LMP Simmons,1/25/1985,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+400,HH Pandya,10/11/1993,5,India,Right-hand bat,Right-arm medium-fast,Player,57
+403,MJ McClenaghan,6/11/1986,5,New Zealand,Left-hand bat,Left-arm fast-medium,Player,57
+406,SN Thakur,10/16/1991,7,India,Right-hand bat,Right-arm medium,Player,306
+413,KH Pandya,3/24/1991,5,India,Left-hand bat,Slow left-arm orthodox,Player,57
+430,A Zampa,3/31/1992,7,Australia,Right-hand bat,Legbreak googly,Player,306
+483,LH Ferguson,6/13/1991,7,New Zealand,Right-hand bat,Right-arm fast,Player,306
+488,RA Tripathi,3/2/1991,7,India,ÿRight-hand bat,Right-arm medium,Player,306
+497,Washington Sundar,10/5/1999,7,India,ÿLeft-hand bat,ÿRight-arm offbreak,Player,306
+27,Yuvraj Singh,12/12/1981,6,India,Left-hand bat,Slow left-arm orthodox,Player,187
+31,YK Pathan,11/17/1982,1,India,Right-hand bat,Right-arm offbreak,Player,40
+40,G Gambhir,10/14/1981,1,India,Left-hand bat,Legbreak,Captain,40
+42,S Dhawan,12/5/1985,6,India,Left-hand bat,Right-arm offbreak,Player,187
+46,RV Uthappa,11/11/1985,1,India,Right-hand bat,Right-arm medium,Keeper,40
+67,PP Chawla,12/24/1988,1,India,Left-hand bat,Legbreak,Player,40
+183,NV Ojha,7/20/1983,6,India,Right-hand bat,NULL,Keeper,187
+187,DA Warner,10/27/1986,6,Australia,Left-hand bat,Legbreak,Captain,187
+228,Bipul Sharma,9/28/1983,6,India,Left-hand bat,Slow left-arm orthodox,Player,187
+232,UT Yadav,10/25/1987,1,India,Right-hand bat,Right-arm fast-medium,Player,40
+257,IR Jaggi,1/27/1989,1,India,Right-hand bat,Legbreak googly,Player,40
+299,B Kumar,2/5/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+308,SA Yadav,9/14/1990,1,India,Right-hand bat,Right-arm offbreak,Player,40
+315,SP Narine,5/26/1988,1,West Indies,Left-hand bat,Right-arm offbreak,Player,40
+336,CA Lynn,4/10/1990,1,Australia,Right-hand bat,Slow left-arm orthodox,Player,40
+368,S Kaul,5/19/1990,6,India,Right-hand bat,Right-arm medium,Player,187
+371,NM Coulter-Nile,10/11/1987,1,Australia,Right-hand bat,Right-arm fast,Player,40
+396,KS Williamson,8/8/1990,6,New Zealand,Right-hand bat,Right-arm offbreak,Player,187
+434,CJ Jordan,10/4/1988,6,England,Right-hand bat,Right-arm fast-medium,Player,187
+455,V Shankar,1/26/1991,6,India,Right-hand bat,Right-arm medium,Player,187
+458,TA Boult,7/22/1989,1,New Zealand,Right-hand bat,Left-arm fast-medium,Player,40
+489,Rashid Khan,11/20/1998,6,Afghanistan,Right-hand bat,Legbreak googly,Player,187
+17,PA Patel,3/9/1985,5,India,Left-hand bat,NULL,Keeper,57
+40,G Gambhir,10/14/1981,1,India,Left-hand bat,Legbreak,Captain,40
+46,RV Uthappa,11/11/1985,1,India,Right-hand bat,Right-arm medium,Keeper,40
+57,RG Sharma,4/30/1987,5,India,Right-hand bat,Right-arm offbreak,Captain,57
+67,PP Chawla,12/24/1988,1,India,Left-hand bat,Legbreak,Player,40
+166,KV Sharma,10/23/1987,5,India,Left-hand bat,Legbreak googly,Player,57
+194,SL Malinga,8/28/1983,5,Sri Lanka,Right-hand bat,Right-arm fast,Player,57
+208,AT Rayudu,9/23/1985,5,India,Right-hand bat,Right-arm offbreak,Player,57
+221,KA Pollard,5/12/1987,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+232,UT Yadav,10/25/1987,1,India,Right-hand bat,Right-arm fast-medium,Player,40
+257,IR Jaggi,1/27/1989,1,India,Right-hand bat,Legbreak googly,Player,40
+308,SA Yadav,9/14/1990,1,India,Right-hand bat,Right-arm offbreak,Player,40
+315,SP Narine,5/26/1988,1,West Indies,Left-hand bat,Right-arm offbreak,Player,40
+336,CA Lynn,4/10/1990,1,Australia,Right-hand bat,Slow left-arm orthodox,Player,40
+344,AS Rajpoot,12/4/1993,1,India,Right-hand bat,Right-arm medium,Player,40
+357,MG Johnson,11/2/1981,5,Australia,Left-hand bat,Left-arm fast,Player,57
+371,NM Coulter-Nile,10/11/1987,1,Australia,Right-hand bat,Right-arm fast,Player,40
+375,JJ Bumrah,12/6/1993,5,India,Right-hand bat,Right-arm medium,Player,57
+383,LMP Simmons,1/25/1985,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+400,HH Pandya,10/11/1993,5,India,Right-hand bat,Right-arm medium-fast,Player,57
+413,KH Pandya,3/24/1991,5,India,Left-hand bat,Slow left-arm orthodox,Player,57
+478,C de Grandhomme,7/22/1986,1,New Zealand,Right-hand bat,Right-arm fast-medium,Player,40
+17,PA Patel,3/9/1985,5,India,Left-hand bat,NULL,Keeper,57
+20,MS Dhoni,7/7/1981,7,India,Right-hand bat,Right-arm medium,Keeper,306
+57,RG Sharma,4/30/1987,5,India,Right-hand bat,Right-arm offbreak,Captain,57
+85,AM Rahane,6/6/1988,7,India,Right-hand bat,Right-arm medium,Player,306
+87,MK Tiwary,11/14/1985,7,India,Right-hand bat,Legbreak googly,Player,306
+166,KV Sharma,10/23/1987,5,India,Left-hand bat,Legbreak googly,Player,57
+194,SL Malinga,8/28/1983,5,Sri Lanka,Right-hand bat,Right-arm fast,Player,57
+208,AT Rayudu,9/23/1985,5,India,Right-hand bat,Right-arm offbreak,Player,57
+221,KA Pollard,5/12/1987,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+258,DT Christian,5/4/1983,7,Australia,Right-hand bat,Right-arm fast-medium,Player,306
+306,SPD Smith,6/2/1989,7,India,Right-hand bat,Legbreak googly,Captain,306
+346,JD Unadkat,10/18/1991,7,India,Right-hand bat,Left-arm medium,Player,306
+357,MG Johnson,11/2/1981,5,Australia,Left-hand bat,Left-arm fast,Player,57
+375,JJ Bumrah,12/6/1993,5,India,Right-hand bat,Right-arm medium,Player,57
+383,LMP Simmons,1/25/1985,5,West Indies,Right-hand bat,Right-arm medium-fast,Player,57
+400,HH Pandya,10/11/1993,5,India,Right-hand bat,Right-arm medium-fast,Player,57
+406,SN Thakur,10/16/1991,7,India,Right-hand bat,Right-arm medium,Player,306
+413,KH Pandya,3/24/1991,5,India,Left-hand bat,Slow left-arm orthodox,Player,57
+430,A Zampa,3/31/1992,7,Australia,Right-hand bat,Legbreak googly,Player,306
+483,LH Ferguson,6/13/1991,7,New Zealand,Right-hand bat,Right-arm fast,Player,306
+488,RA Tripathi,3/2/1991,7,India,ÿRight-hand bat,Right-arm medium,Player,306
+497,Washington Sundar,10/5/1999,7,India,ÿLeft-hand bat,ÿRight-arm offbreak,Player,306

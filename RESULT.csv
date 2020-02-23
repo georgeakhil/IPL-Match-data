@@ -1,0 +1,61 @@
+Match_ID,Match_Date,Match_Winner,Win_Type,Win_Margin,Outcome_Type,Man_of_the_Match
+1082591,4/5/2017,Sunrisers Hyderabad,Runs,35,Result,Yuvraj Singh
+1082592,4/6/2017,Rising Pune Supergiants,Wickets,7,Result,SPD Smith
+1082593,4/7/2017,Kolkata Knight Riders,Wickets,10,Result,CA Lynn
+1082594,4/8/2017,Kings XI Punjab,Wickets,6,Result,GJ Maxwell
+1082595,4/8/2017,Royal Challengers Bangalore,Runs,15,Result,KM Jadhav
+1082596,4/9/2017,Sunrisers Hyderabad,Wickets,9,Result,Rashid Khan
+1082597,4/9/2017,Mumbai Indians,Wickets,4,Result,N Rana
+1082598,4/10/2017,Kings XI Punjab,Wickets,8,Result,AR Patel
+1082599,4/11/2017,Delhi Daredevils,Runs,97,Result,SV Samson
+1082600,4/12/2017,Mumbai Indians,Wickets,4,Result,JJ Bumrah
+1082601,4/13/2017,Kolkata Knight Riders,Wickets,8,Result,Narine
+1082602,4/14/2017,Mumbai Indians,Wickets,4,Result,KA Pollard
+1082603,4/14/2017,Gujarat Lions,Wickets,7,Result,AJ Tye
+1082604,4/15/2017,Kolkata Knight Riders,Runs,17,Result,RV Uthappa
+1082605,4/15/2017,Delhi Daredevils,Runs,51,Result,CJ Anderson
+1082606,4/16/2017,Mumbai Indians,Wickets,6,Result,N Rana
+1082607,4/16/2017,Rising Pune Supergiants,Runs,27,Result,BA Stokes
+1082608,4/17/2017,Kolkata Knight Riders,Wickets,4,Result,NM Coulter-Nile
+1082609,4/17/2017,Sunrisers Hyderabad,Runs,5,Result,B Kumar
+1082610,4/18/2017,Royal Challengers Bangalore,Runs,21,Result,CH Gayle
+1082611,4/19/2017,Sunrisers Hyderabad,Runs,15,Result,KS Williamson
+1082612,4/20/2017,Mumbai Indians,Wickets,8,Result,JC Buttler
+1082613,4/21/2017,Gujarat Lions,Wickets,4,Result,SK Raina
+1082614,4/22/2017,Mumbai Indians,Runs,14,Result,MJ McClenaghan
+1082615,4/22/2017,Rising Pune Supergiants,Wickets,6,Result,MS Dhoni
+1082616,4/23/2017,Kings XI Punjab,Runs,26,Result,HM Amla
+1082617,4/23/2017,Kolkata Knight Riders,Runs,82,Result,NM Coulter-Nile
+1082618,4/24/2017,Rising Pune Supergiants,Runs,3,Result,BA Stokes
+1082619,4/25/2017,Abandoned,NA,0,Abandoned,NA
+1082620,4/26/2017,Kolkata Knight Riders,Wickets,7,Result,RV Uthappa
+1082621,4/27/2017,Gujarat Lions,Wickets,7,Result,AJ Tye
+1082622,4/28/2017,Kolkata Knight Riders,Wickets,7,Result,G Gambhir
+1082623,4/28/2017,Sunrisers Hyderabad,Runs,26,Result,Rashid Khan
+1082624,4/29/2017,Rising Pune Supergiants,Runs,61,Result,LH Ferguson
+1082625,4/29/2017,tied,NULL,0,tied,KH Pandya
+1082626,4/30/2017,Kings XI Punjab,Wickets,10,Result,Sandeep Sharma
+1082627,4/30/2017,Sunrisers Hyderabad,Runs,48,Result,DA Warner
+1082628,5/1/2017,Mumbai Indians,Wickets,5,Result,RG Sharma
+1082629,5/1/2017,Rising Pune Supergiants,Wickets,5,Result,BA Stokes
+1082630,5/2/2017,Delhi Daredevils,Wickets,6,Result,Mohammed Shami
+1082631,5/3/2017,Rising Pune Supergiants,Wickets,4,Result,RA Tripathi
+1082632,5/4/2017,Delhi Daredevils,Wickets,7,Result,RR Pant
+1082633,5/5/2017,Kings XI Punjab,Runs,19,Result,Sandeep Sharma
+1082634,5/6/2017,Rising Pune Supergiants,Runs,12,Result,JD Unadkat
+1082635,5/6/2017,Mumbai Indians,Runs,146,Result,LMP Simmons
+1082636,5/7/2017,Kolkata Knight Riders,Wickets,6,Result,SP Narine
+1082637,5/7/2017,Gujarat Lions,Wickets,6,Result,DR Smith
+1082638,5/8/2017,Sunrisers Hyderabad,Wickets,7,Result,S Dhawan
+1082639,5/9/2017,Kings XI Punjab,Runs,14,Result,MM Sharma
+1082640,5/10/2017,Delhi Daredevils,Wickets,2,Result,SS Iyer
+1082641,5/11/2017,Kings XI Punjab,Runs,7,Result,WP Saha
+1082642,5/12/2017,Delhi Daredevils,Runs,7,Result,KK Nair
+1082643,5/13/2017,Sunrisers Hyderabad,Wickets,8,Result,Mohammed Siraj
+1082644,5/13/2017,Mumbai Indians,Runs,9,Result,AT Rayudu
+1082645,5/14/2017,Rising Pune Supergiants,Wickets,9,Result,JD Unadkat
+1082646,5/14/2017,Royal Challengers Bangalore,Runs,10,Result,HV Patel
+1082647,5/16/2017,Rising Pune Supergiants,Runs,20,Result,Wasington Sundar
+1082648,5/17/2017,Kolkata Knight Riders,Wickets,7,Result,NM Coulter-Nile
+1082649,5/19/2017,Mumbai Indians,Wickets,6,Result,KV Sharma
+1082650,5/21/2017,Mumbai Indians,Runs,1,Result,KH Pandya
